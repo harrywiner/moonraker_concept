@@ -1,0 +1,47 @@
+[
+  {
+    "telematicsDeviceBase": {
+      "serialNum": "100-111-110-12",
+      "hardwareVersion": "1.0.0",
+      "osVersion": "1.0.0",
+      "softwareVersion": "1.0.0",
+      "deviceId": "brickworks0",
+      "dataLinkType": "CANBUS",
+      "lastDeviceConnection": "2022-05-18T05:09:16.247",
+      "lastDataLinkConnection": null,
+      "updateUserId": null
+    },
+    "connectionTypeEvents": [
+      {
+        "changeDateTime": "2022-03-28T16:27:00",
+        "teleDeviceId": "brickworks0",
+        "dataTransferTypeId": 1,
+        "endPoint": null,
+        "dataTransferTypeDescription": "Wireless"
+      }
+    ],
+    "deviceTeleMaticsData": {
+      "id": 513515,
+      "messageIndex": 0,
+      "deviceId": "brickworks0",
+      "teleDeviceId": "brickworks0",
+      "recordDateTime": "2022-03-29T23:29:39",
+      "writeDateTime": "2022-07-21T14:08:15.39",
+      "recordUTCCode": null,
+      "writeUTCCode": null
+    },
+    "deviceGpsData": {
+      "id": 3353,
+      "msgIndex": 0,
+      "deviceId": "brickworks0",
+      "teleDeviceId": "brickworks0",
+      "messageDateTime": "2022-03-29T16:52:09",
+      "writeDateTime": "2022-03-29T16:23:06.693",
+      "longitude": -117.839427233,
+      "latitude": 33.7219755,
+      "height": 2903.2,
+      "messageUTCCode": null,
+      "writeUTCCode": null
+    }
+  }
+]
