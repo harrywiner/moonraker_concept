@@ -1,0 +1,24 @@
+{
+  "name": "moonraker_concept",
+  "version": "1.0.0",
+  "description": "``` npm install -g ijavascript ijsinstall ``` To make vscode run the new kernel, first run jupyter from terminal with  ``` jupyter notebook ``` Then select a kernel from there to make Jupyter recognise it Paste the jupyter url into \"connect to remote kernel\" from then on, VSCode should remember the new `iJavascript` kernel",
+  "main": "index.js",
+  "dependencies": {
+    "api": "^4.5.2",
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrywiner1/moonraker_concept.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrywiner1/moonraker_concept/issues"
+  },
+  "homepage": "https://github.com/harrywiner1/moonraker_concept#readme"
+}
