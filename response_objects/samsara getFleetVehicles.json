@@ -1,0 +1,2031 @@
+{
+    "data": [
+        {
+            "externalIds": {
+                "samsara.serial": "G27K4BNPSZ",
+                "samsara.vin": "3AKJGED65GSGY6637"
+            },
+            "gateway": {
+                "serial": "G27K-4BN-PSZ",
+                "model": "none"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474980894010",
+            "licensePlate": "PWB1296",
+            "make": "FREIGHTLINER",
+            "model": "Cascadia",
+            "name": "GY6637 (Hogan)",
+            "notes": "",
+            "serial": "G27K4BNPSZ",
+            "vin": "3AKJGED65GSGY6637",
+            "year": "2016",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-04-20T20:30:18Z",
+            "updatedAtTime": "2022-04-20T20:30:18Z",
+            "esn": "S0327614"
+        },
+        {
+            "externalIds": {
+                "samsara.serial": "GRFPXH6SA3",
+                "samsara.vin": "3AKJGLBG6FSGB2430"
+            },
+            "gateway": {
+                "serial": "GRFP-XH6-SA3",
+                "model": "none"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474980908699",
+            "licensePlate": "PVY1568",
+            "make": "FREIGHTLINER",
+            "model": "Cascadia",
+            "name": "GB2430",
+            "notes": "",
+            "serial": "GRFPXH6SA3",
+            "vin": "3AKJGLBG6FSGB2430",
+            "year": "2015",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-04-21T23:49:48Z",
+            "updatedAtTime": "2022-04-21T23:49:48Z",
+            "esn": "79715047"
+        },
+        {
+            "cameraSerial": "G4JU-GRW-5MV",
+            "externalIds": {
+                "samsara.serial": "GZVA5WZSD8",
+                "samsara.vin": "3C63R3EL5NG303180"
+            },
+            "gateway": {
+                "serial": "GZVA-5WZ-SD8",
+                "model": "none"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474980915866",
+            "make": "RAM",
+            "model": "3500",
+            "name": "303180",
+            "notes": "",
+            "serial": "GZVA5WZSD8",
+            "tags": [
+                {
+                    "id": "3727761",
+                    "name": "Memphis Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "3C63R3EL5NG303180",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-04-22T15:33:29Z",
+            "updatedAtTime": "2022-08-19T14:09:28Z"
+        },
+        {
+            "cameraSerial": "GGU6-6WZ-KZS",
+            "externalIds": {
+                "samsara.serial": "GXNWEF8VG5",
+                "samsara.vin": "4V4NC9EH2GN941659"
+            },
+            "gateway": {
+                "serial": "GXNW-EF8-VG5",
+                "model": "VG34"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474980916023",
+            "make": "VOLVO TRUCK",
+            "model": "VNL",
+            "name": "941659",
+            "notes": "",
+            "serial": "GXNWEF8VG5",
+            "tags": [
+                {
+                    "id": "3587351",
+                    "name": "Transportation Fleet",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728484",
+                    "name": "Hogan/National Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "4V4NC9EH2GN941659",
+            "year": "2016",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-04-22T15:45:17Z",
+            "updatedAtTime": "2022-08-03T13:59:36Z"
+        },
+        {
+            "cameraSerial": "GTA8-BJE-PWX",
+            "externalIds": {
+                "samsara.serial": "GMJNDWABY4",
+                "samsara.vin": "1C4HJXFN5MW724961"
+            },
+            "gateway": {
+                "serial": "GMJN-DWA-BY4",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474981849508",
+            "make": "JEEP",
+            "model": "Wrangler",
+            "name": "724961",
+            "notes": "",
+            "serial": "GMJNDWABY4",
+            "tags": [
+                {
+                    "id": "3727761",
+                    "name": "Memphis Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1C4HJXFN5MW724961",
+            "year": "2021",
+            "vehicleRegulationMode": "unregulated",
+            "createdAtTime": "2022-07-21T17:14:54Z",
+            "updatedAtTime": "2022-08-05T11:46:02Z"
+        },
+        {
+            "cameraSerial": "G378-7DV-T4G",
+            "externalIds": {
+                "samsara.serial": "G6J4E9KB6R",
+                "samsara.vin": "1C6SRFJT4NN306646"
+            },
+            "gateway": {
+                "serial": "G6J4-E9K-B6R",
+                "model": "none"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474981964878",
+            "make": "RAM",
+            "model": "1500",
+            "name": "306646",
+            "notes": "",
+            "serial": "G6J4E9KB6R",
+            "staticAssignedDriver": {
+                "id": "19598360",
+                "name": "Doug Burr"
+            },
+            "tags": [
+                {
+                    "id": "3727761",
+                    "name": "Memphis Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1C6SRFJT4NN306646",
+            "year": "2022",
+            "vehicleRegulationMode": "unregulated",
+            "createdAtTime": "2022-08-01T16:35:23Z",
+            "updatedAtTime": "2022-08-05T11:46:58Z"
+        },
+        {
+            "cameraSerial": "GWS6-AVM-VPU",
+            "externalIds": {
+                "samsara.serial": "GJ38J4M9A8",
+                "samsara.vin": "1C6SRFJT2NN394855"
+            },
+            "gateway": {
+                "serial": "GJ38-J4M-9A8",
+                "model": "none"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474981969496",
+            "make": "RAM",
+            "model": "1500",
+            "name": "394855",
+            "notes": "",
+            "serial": "GJ38J4M9A8",
+            "tags": [
+                {
+                    "id": "3727761",
+                    "name": "Memphis Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1C6SRFJT2NN394855",
+            "year": "2022",
+            "vehicleRegulationMode": "unregulated",
+            "createdAtTime": "2022-08-01T19:46:36Z",
+            "updatedAtTime": "2022-08-05T11:47:19Z"
+        },
+        {
+            "cameraSerial": "G95P-SX8-W5J",
+            "externalIds": {
+                "samsara.serial": "G5X3ESPE4Y",
+                "samsara.vin": "3C63R3EL1NG207000"
+            },
+            "gateway": {
+                "serial": "G5X3-ESP-E4Y",
+                "model": "none"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474981976275",
+            "make": "RAM",
+            "model": "3500",
+            "name": "207000",
+            "notes": "",
+            "serial": "G5X3ESPE4Y",
+            "tags": [
+                {
+                    "id": "3727761",
+                    "name": "Memphis Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "3C63R3EL1NG207000",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-02T12:41:13Z",
+            "updatedAtTime": "2022-08-02T12:43:52Z"
+        },
+        {
+            "cameraSerial": "G4HF-HCN-JEF",
+            "externalIds": {
+                "samsara.serial": "GFKKV3V823",
+                "samsara.vin": "1C4RDJDG9NC104758"
+            },
+            "gateway": {
+                "serial": "GFKK-V3V-823",
+                "model": "none"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474981978827",
+            "make": "DODGE",
+            "model": "Durango",
+            "name": "104758",
+            "notes": "",
+            "serial": "GFKKV3V823",
+            "tags": [
+                {
+                    "id": "3727761",
+                    "name": "Memphis Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1C4RDJDG9NC104758",
+            "year": "2022",
+            "vehicleRegulationMode": "unregulated",
+            "createdAtTime": "2022-08-02T15:35:04Z",
+            "updatedAtTime": "2022-08-05T11:46:15Z"
+        },
+        {
+            "cameraSerial": "GN5A-KS2-8SB",
+            "externalIds": {
+                "samsara.serial": "GXTAB23YMX",
+                "samsara.vin": "1HTKJPVKXMH680833"
+            },
+            "gateway": {
+                "serial": "GXTA-B23-YMX",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474981991075",
+            "make": "GMC",
+            "model": "Silverado Medium Duty (GM515)",
+            "name": "5-0003763",
+            "notes": "",
+            "serial": "GXTAB23YMX",
+            "tags": [
+                {
+                    "id": "3727760",
+                    "name": "Dallas Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728483",
+                    "name": "PTR Rental",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1HTKJPVKXMH680833",
+            "year": "2021",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-03T14:57:40Z",
+            "updatedAtTime": "2022-08-03T14:58:23Z"
+        },
+        {
+            "cameraSerial": "GTN9-MVE-EJW",
+            "externalIds": {
+                "samsara.serial": "GBPDGBWEHK",
+                "samsara.vin": "1FD8W3HT8LED98255"
+            },
+            "gateway": {
+                "serial": "GBPD-GBW-EHK",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474981991440",
+            "make": "FORD",
+            "model": "F-350",
+            "name": "3-0001062",
+            "notes": "",
+            "serial": "GBPDGBWEHK",
+            "tags": [
+                {
+                    "id": "3727760",
+                    "name": "Dallas Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728483",
+                    "name": "PTR Rental",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1FD8W3HT8LED98255",
+            "year": "2020",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-03T15:19:57Z",
+            "updatedAtTime": "2022-08-03T15:21:36Z"
+        },
+        {
+            "cameraSerial": "GJ68-6S5-GKW",
+            "externalIds": {
+                "samsara.serial": "GVW5SACAZJ",
+                "samsara.vin": "1FD0W5HTXGEA17066"
+            },
+            "gateway": {
+                "serial": "GVW5-SAC-AZJ",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474981994822",
+            "make": "FORD",
+            "model": "F-550",
+            "name": "A17066",
+            "notes": "",
+            "serial": "GVW5SACAZJ",
+            "tags": [
+                {
+                    "id": "3727757",
+                    "name": "Sun Valley Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728485",
+                    "name": "CES Owned",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1FD0W5HTXGEA17066",
+            "year": "2016",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-03T18:49:34Z",
+            "updatedAtTime": "2022-08-03T18:50:42Z"
+        },
+        {
+            "cameraSerial": "GDX6-8EN-5UV",
+            "externalIds": {
+                "samsara.serial": "GZXUBSVXNC",
+                "samsara.vin": "1FD0W5HT0GEC94664"
+            },
+            "gateway": {
+                "serial": "GZXU-BSV-XNC",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474981998665",
+            "make": "FORD",
+            "model": "F-550",
+            "name": "C94664",
+            "notes": "",
+            "serial": "GZXUBSVXNC",
+            "tags": [
+                {
+                    "id": "3727763",
+                    "name": "Ft. Lauderdale Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728485",
+                    "name": "CES Owned",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1FD0W5HT0GEC94664",
+            "year": "2016",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-04T02:11:19Z",
+            "updatedAtTime": "2022-08-04T02:12:44Z"
+        },
+        {
+            "cameraSerial": "GRCT-W4Y-KVP",
+            "externalIds": {
+                "samsara.serial": "GYFAUUA463",
+                "samsara.vin": "1N6AF0KY5GN804424"
+            },
+            "gateway": {
+                "serial": "GYFA-UUA-463",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474981998678",
+            "make": "NISSAN",
+            "model": "NV",
+            "name": "804424",
+            "notes": "",
+            "serial": "GYFAUUA463",
+            "tags": [
+                {
+                    "id": "3727763",
+                    "name": "Ft. Lauderdale Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728485",
+                    "name": "CES Owned",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1N6AF0KY5GN804424",
+            "year": "2016",
+            "vehicleRegulationMode": "unregulated",
+            "createdAtTime": "2022-08-04T02:13:16Z",
+            "updatedAtTime": "2022-08-05T11:43:41Z"
+        },
+        {
+            "cameraSerial": "GAA6-3N5-BU3",
+            "externalIds": {
+                "samsara.serial": "GURHGM4KUE",
+                "samsara.vin": "1GB4YSEY6MF292460"
+            },
+            "gateway": {
+                "serial": "GURH-GM4-KUE",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982006391",
+            "make": "CHEVROLET",
+            "model": "Silverado",
+            "name": "3-0001438",
+            "notes": "",
+            "serial": "GURHGM4KUE",
+            "tags": [
+                {
+                    "id": "3727760",
+                    "name": "Dallas Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728483",
+                    "name": "PTR Rental",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1GB4YSEY6MF292460",
+            "year": "2021",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-04T17:05:53Z",
+            "updatedAtTime": "2022-08-04T17:18:06Z"
+        },
+        {
+            "cameraSerial": "GFG9-DU9-FKE",
+            "externalIds": {
+                "samsara.serial": "GEBNAWZE3Z",
+                "samsara.vin": "3C63R3EL3NG207001"
+            },
+            "gateway": {
+                "serial": "GEBN-AWZ-E3Z",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982006440",
+            "make": "RAM",
+            "model": "3500",
+            "name": "207001",
+            "notes": "",
+            "serial": "GEBNAWZE3Z",
+            "tags": [
+                {
+                    "id": "3727760",
+                    "name": "Dallas Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "3C63R3EL3NG207001",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-04T17:10:41Z",
+            "updatedAtTime": "2022-08-04T17:15:54Z"
+        },
+        {
+            "cameraSerial": "GT6A-62V-AKY",
+            "externalIds": {
+                "samsara.serial": "GCEK7YBAUZ",
+                "samsara.vin": "1HTKJPVK8MH681561"
+            },
+            "gateway": {
+                "serial": "GCEK-7YB-AUZ",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982006484",
+            "make": "GMC",
+            "model": "Silverado Medium Duty (GM515)",
+            "name": "5-0003762",
+            "notes": "",
+            "serial": "GCEK7YBAUZ",
+            "tags": [
+                {
+                    "id": "3727760",
+                    "name": "Dallas Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728483",
+                    "name": "PTR Rental",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1HTKJPVK8MH681561",
+            "year": "2021",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-04T17:14:19Z",
+            "updatedAtTime": "2022-08-04T17:17:06Z"
+        },
+        {
+            "cameraSerial": "GAVR-YY3-FTF",
+            "externalIds": {
+                "samsara.serial": "GYCR76AMZS",
+                "samsara.vin": "1C6SRFJT4NN330333"
+            },
+            "gateway": {
+                "serial": "GYCR-76A-MZS",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982010073",
+            "make": "RAM",
+            "model": "1500",
+            "name": "330333",
+            "notes": "",
+            "serial": "GYCR76AMZS",
+            "staticAssignedDriver": {
+                "id": "19561872",
+                "name": "Pete Carstens"
+            },
+            "tags": [
+                {
+                    "id": "3727762",
+                    "name": "Orlando Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1C6SRFJT4NN330333",
+            "year": "2022",
+            "vehicleRegulationMode": "unregulated",
+            "createdAtTime": "2022-08-04T21:50:07Z",
+            "updatedAtTime": "2022-08-05T11:46:44Z"
+        },
+        {
+            "cameraSerial": "GEJ3-Y9F-898",
+            "externalIds": {
+                "samsara.serial": "G5XJA453WA",
+                "samsara.vin": "3C63R3EL8NG240138"
+            },
+            "gateway": {
+                "serial": "G5XJ-A45-3WA",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982010534",
+            "make": "RAM",
+            "model": "3500",
+            "name": "240138",
+            "notes": "",
+            "serial": "G5XJA453WA",
+            "staticAssignedDriver": {
+                "id": "19550010",
+                "name": "Michael Watson"
+            },
+            "tags": [
+                {
+                    "id": "3727763",
+                    "name": "Ft. Lauderdale Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "3C63R3EL8NG240138",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-04T22:51:05Z",
+            "updatedAtTime": "2022-08-05T11:37:40Z"
+        },
+        {
+            "cameraSerial": "GX64-CUY-UP4",
+            "externalIds": {
+                "samsara.serial": "GPBYVFSTVS",
+                "samsara.vin": "3C63R3ELXNG240139"
+            },
+            "gateway": {
+                "serial": "GPBY-VFS-TVS",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982010535",
+            "make": "RAM",
+            "model": "3500",
+            "name": "240139",
+            "notes": "",
+            "serial": "GPBYVFSTVS",
+            "staticAssignedDriver": {
+                "id": "19550012",
+                "name": "Steven Murray"
+            },
+            "tags": [
+                {
+                    "id": "3727763",
+                    "name": "Ft. Lauderdale Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "3C63R3ELXNG240139",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-04T22:51:06Z",
+            "updatedAtTime": "2022-08-05T11:38:16Z"
+        },
+        {
+            "cameraSerial": "GMMT-Y5M-UEZ",
+            "externalIds": {
+                "samsara.serial": "G4U3Z8BKUN",
+                "samsara.vin": "1FD0W5HT0NEC95018"
+            },
+            "gateway": {
+                "serial": "G4U3-Z8B-KUN",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982015195",
+            "make": "FORD",
+            "model": "F-550",
+            "name": "5-0002064",
+            "notes": "",
+            "serial": "G4U3Z8BKUN",
+            "tags": [
+                {
+                    "id": "3727762",
+                    "name": "Orlando Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728483",
+                    "name": "PTR Rental",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1FD0W5HT0NEC95018",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-05T12:30:15Z",
+            "updatedAtTime": "2022-08-05T12:31:15Z"
+        },
+        {
+            "cameraSerial": "G5Y5-YD9-5YK",
+            "externalIds": {
+                "samsara.serial": "G98C9F5MJM",
+                "samsara.vin": "1HTKJPVK5MH097067"
+            },
+            "gateway": {
+                "serial": "G98C-9F5-MJM",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982015353",
+            "make": "GMC",
+            "model": "Silverado Medium Duty (GM515)",
+            "name": "5-0003768",
+            "notes": "",
+            "serial": "G98C9F5MJM",
+            "tags": [
+                {
+                    "id": "3727762",
+                    "name": "Orlando Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728483",
+                    "name": "PTR Rental",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1HTKJPVK5MH097067",
+            "year": "2021",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-05T12:46:27Z",
+            "updatedAtTime": "2022-08-05T12:47:05Z"
+        },
+        {
+            "cameraSerial": "G2UR-NYB-CT5",
+            "externalIds": {
+                "samsara.serial": "GB3H2NE9VU",
+                "samsara.vin": "1C6SRFJT2NN330332"
+            },
+            "gateway": {
+                "serial": "GB3H-2NE-9VU",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982016986",
+            "make": "RAM",
+            "model": "1500",
+            "name": "330332",
+            "notes": "",
+            "serial": "GB3H2NE9VU",
+            "staticAssignedDriver": {
+                "id": "19561879",
+                "name": "David S. Parrish II"
+            },
+            "tags": [
+                {
+                    "id": "3727762",
+                    "name": "Orlando Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1C6SRFJT2NN330332",
+            "year": "2022",
+            "vehicleRegulationMode": "unregulated",
+            "createdAtTime": "2022-08-05T15:11:20Z",
+            "updatedAtTime": "2022-08-05T15:12:09Z"
+        },
+        {
+            "cameraSerial": "GW5P-6Y8-8BB",
+            "externalIds": {
+                "samsara.serial": "GAP8PVKVNE",
+                "samsara.vin": "1GB4YSEY1MF258197"
+            },
+            "gateway": {
+                "serial": "GAP8-PVK-VNE",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982017022",
+            "make": "CHEVROLET",
+            "model": "Silverado",
+            "name": "3-0001342",
+            "notes": "",
+            "serial": "GAP8PVKVNE",
+            "tags": [
+                {
+                    "id": "3727758",
+                    "name": "Indio Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728483",
+                    "name": "PTR Rental",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1GB4YSEY1MF258197",
+            "year": "2021",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-05T15:14:54Z",
+            "updatedAtTime": "2022-08-05T15:15:33Z"
+        },
+        {
+            "cameraSerial": "GCGM-6MV-GHM",
+            "externalIds": {
+                "samsara.serial": "GNATJMCA6W",
+                "samsara.vin": "1FD8W3HT3MED56464"
+            },
+            "gateway": {
+                "serial": "GNAT-JMC-A6W",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982017457",
+            "make": "FORD",
+            "model": "F-350",
+            "name": "3-0001371",
+            "notes": "",
+            "serial": "GNATJMCA6W",
+            "tags": [
+                {
+                    "id": "3727758",
+                    "name": "Indio Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728483",
+                    "name": "PTR Rental",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1FD8W3HT3MED56464",
+            "year": "2021",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-05T15:46:06Z",
+            "updatedAtTime": "2022-08-05T15:46:54Z"
+        },
+        {
+            "cameraSerial": "G2MP-VW9-6JP",
+            "externalIds": {
+                "samsara.serial": "GT5SJYV9VU",
+                "samsara.vin": "3C63R3EL9NG303179"
+            },
+            "gateway": {
+                "serial": "GT5S-JYV-9VU",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982018417",
+            "make": "RAM",
+            "model": "3500",
+            "name": "303179",
+            "notes": "",
+            "serial": "GT5SJYV9VU",
+            "staticAssignedDriver": {
+                "id": "19634634",
+                "name": "Marcus Brown"
+            },
+            "tags": [
+                {
+                    "id": "3727758",
+                    "name": "Indio Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "3C63R3EL9NG303179",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-05T16:51:50Z",
+            "updatedAtTime": "2022-08-05T16:52:57Z"
+        },
+        {
+            "cameraSerial": "GVR7-ZU4-SWH",
+            "externalIds": {
+                "samsara.serial": "GB4V9RGHHZ",
+                "samsara.vin": "1FDUF5HT7MDA04391"
+            },
+            "gateway": {
+                "serial": "GB4V-9RG-HHZ",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982018497",
+            "make": "FORD",
+            "model": "F-550",
+            "name": "A04391",
+            "notes": "Enterprise Rental Truck\nPossible dead camera",
+            "serial": "GB4V9RGHHZ",
+            "tags": [
+                {
+                    "id": "3727758",
+                    "name": "Indio Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728486",
+                    "name": "Other Leases/Rentals",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1FDUF5HT7MDA04391",
+            "year": "2021",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-05T16:59:46Z",
+            "updatedAtTime": "2022-08-05T18:13:21Z"
+        },
+        {
+            "cameraSerial": "GYSG-3Z2-EB7",
+            "externalIds": {
+                "samsara.serial": "G29EDTKAB6",
+                "samsara.vin": "3C63R3EL0NG276891"
+            },
+            "gateway": {
+                "serial": "G29E-DTK-AB6",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982019616",
+            "make": "RAM",
+            "model": "3500",
+            "name": "276891",
+            "notes": "",
+            "serial": "G29EDTKAB6",
+            "tags": [
+                {
+                    "id": "3727758",
+                    "name": "Indio Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "3C63R3EL0NG276891",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-05T18:06:16Z",
+            "updatedAtTime": "2022-08-05T18:06:52Z"
+        },
+        {
+            "cameraSerial": "GHAH-Z8C-VTG",
+            "externalIds": {
+                "samsara.serial": "GU7V8RZVU3",
+                "samsara.vin": "3C63R3EL9NG276890"
+            },
+            "gateway": {
+                "serial": "GU7V-8RZ-VU3",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982021862",
+            "make": "RAM",
+            "model": "3500",
+            "name": "276890",
+            "notes": "",
+            "serial": "GU7V8RZVU3",
+            "tags": [
+                {
+                    "id": "3727758",
+                    "name": "Indio Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "3C63R3EL9NG276890",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-05T20:58:10Z",
+            "updatedAtTime": "2022-08-05T20:59:12Z"
+        },
+        {
+            "cameraSerial": "GW5Z-S68-VXY",
+            "externalIds": {
+                "samsara.serial": "GK8T3KZD3J",
+                "samsara.vin": "3C63R3EL5NG276885"
+            },
+            "gateway": {
+                "serial": "GK8T-3KZ-D3J",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982022320",
+            "make": "RAM",
+            "model": "3500",
+            "name": "276885",
+            "notes": "Bacilio",
+            "serial": "GK8T3KZD3J",
+            "tags": [
+                {
+                    "id": "3727757",
+                    "name": "Sun Valley Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "3C63R3EL5NG276885",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-05T21:57:58Z",
+            "updatedAtTime": "2022-08-05T22:00:38Z"
+        },
+        {
+            "cameraSerial": "GFUM-JXC-588",
+            "externalIds": {
+                "samsara.serial": "GTVPHCFPNW",
+                "samsara.vin": "3C7WRNFL2EG114800"
+            },
+            "gateway": {
+                "serial": "GTVP-HCF-PNW",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982022376",
+            "make": "RAM",
+            "model": "5500",
+            "name": "431895",
+            "notes": "",
+            "serial": "GTVPHCFPNW",
+            "tags": [
+                {
+                    "id": "3727763",
+                    "name": "Ft. Lauderdale Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728485",
+                    "name": "CES Owned",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "3C7WRNFL2EG114800",
+            "year": "2014",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-05T22:10:05Z",
+            "updatedAtTime": "2022-08-05T22:12:22Z"
+        },
+        {
+            "cameraSerial": "GV9D-N59-B6V",
+            "externalIds": {
+                "samsara.serial": "G3KJJD23KZ",
+                "samsara.vin": "2NP2HM6X2HM431895"
+            },
+            "gateway": {
+                "serial": "G3KJ-JD2-3KZ",
+                "model": "none"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982022377",
+            "make": "PETERBILT",
+            "model": "337",
+            "name": "114800",
+            "notes": "",
+            "serial": "G3KJJD23KZ",
+            "tags": [
+                {
+                    "id": "3727763",
+                    "name": "Ft. Lauderdale Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728485",
+                    "name": "CES Owned",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "2NP2HM6X2HM431895",
+            "year": "2017",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-05T22:10:06Z",
+            "updatedAtTime": "2022-08-05T22:11:46Z",
+            "esn": "74013291"
+        },
+        {
+            "cameraSerial": "GTJ8-BPU-SUW",
+            "externalIds": {
+                "samsara.serial": "G6YWEHH5WD",
+                "samsara.vin": "3C63R3EL7NG135607"
+            },
+            "gateway": {
+                "serial": "G6YW-EHH-5WD",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982025431",
+            "make": "RAM",
+            "model": "3500",
+            "name": "135607",
+            "notes": "",
+            "serial": "G6YWEHH5WD",
+            "tags": [
+                {
+                    "id": "3727759",
+                    "name": "Sacramento Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "3C63R3EL7NG135607",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-06T11:20:38Z",
+            "updatedAtTime": "2022-08-06T11:22:42Z"
+        },
+        {
+            "cameraSerial": "GRHG-TB9-5PP",
+            "externalIds": {
+                "samsara.serial": "GTT3B6J824",
+                "samsara.vin": "1C6SRFJT9NN306657"
+            },
+            "gateway": {
+                "serial": "GTT3-B6J-824",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982025432",
+            "make": "RAM",
+            "model": "1500",
+            "name": "306657",
+            "notes": "",
+            "serial": "GTT3B6J824",
+            "staticAssignedDriver": {
+                "id": "19598395",
+                "name": "Romana Pitts"
+            },
+            "tags": [
+                {
+                    "id": "3727759",
+                    "name": "Sacramento Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1C6SRFJT9NN306657",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-06T11:20:39Z",
+            "updatedAtTime": "2022-08-06T11:27:47Z"
+        },
+        {
+            "cameraSerial": "GD5M-XV6-RNG",
+            "externalIds": {
+                "samsara.serial": "GUMR5C7XYD",
+                "samsara.vin": "1FD0W5HT7KEF58763"
+            },
+            "gateway": {
+                "serial": "GUMR-5C7-XYD",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982025433",
+            "make": "FORD",
+            "model": "F-550",
+            "name": "5-0001097",
+            "notes": "",
+            "serial": "GUMR5C7XYD",
+            "tags": [
+                {
+                    "id": "3727759",
+                    "name": "Sacramento Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728483",
+                    "name": "PTR Rental",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1FD0W5HT7KEF58763",
+            "year": "2019",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-06T11:20:39Z",
+            "updatedAtTime": "2022-08-06T11:25:00Z"
+        },
+        {
+            "cameraSerial": "G4NW-W9Y-YSB",
+            "externalIds": {
+                "samsara.serial": "GJVWASPHSM"
+            },
+            "gateway": {
+                "serial": "GJVW-ASP-HSM",
+                "model": "none"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982042319",
+            "name": "310453",
+            "notes": "",
+            "serial": "GJVWASPHSM",
+            "tags": [
+                {
+                    "id": "3727761",
+                    "name": "Memphis Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-08T16:31:54Z",
+            "updatedAtTime": "2022-08-08T16:40:21Z"
+        },
+        {
+            "cameraSerial": "GN9G-6EB-592",
+            "externalIds": {
+                "samsara.serial": "G3RPHEYZF2",
+                "samsara.vin": "1C4RDJDG8MC804897"
+            },
+            "gateway": {
+                "serial": "G3RP-HEY-ZF2",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982042322",
+            "make": "DODGE",
+            "model": "Durango",
+            "name": "804897",
+            "notes": "",
+            "serial": "G3RPHEYZF2",
+            "tags": [
+                {
+                    "id": "3727761",
+                    "name": "Memphis Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1C4RDJDG8MC804897",
+            "year": "2021",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-08T16:31:54Z",
+            "updatedAtTime": "2022-08-08T16:43:45Z"
+        },
+        {
+            "cameraSerial": "GSWW-AKT-SDS",
+            "externalIds": {
+                "samsara.serial": "GWY9NCUM37",
+                "samsara.vin": "1C6SRFJTXNN269117"
+            },
+            "gateway": {
+                "serial": "GWY9-NCU-M37",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982045242",
+            "make": "RAM",
+            "model": "1500",
+            "name": "269117",
+            "notes": "",
+            "serial": "GWY9NCUM37",
+            "tags": [
+                {
+                    "id": "3727760",
+                    "name": "Dallas Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1C6SRFJTXNN269117",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-08T19:53:51Z",
+            "updatedAtTime": "2022-08-08T19:59:30Z"
+        },
+        {
+            "cameraSerial": "GFTH-6AV-EM8",
+            "externalIds": {
+                "samsara.serial": "GX8FPTXKC4",
+                "samsara.vin": "1FT8W3DT0JEB05018"
+            },
+            "gateway": {
+                "serial": "GX8F-PTX-KC4",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982064404",
+            "make": "FORD",
+            "model": "F-350",
+            "name": "B05018",
+            "notes": "",
+            "serial": "GX8FPTXKC4",
+            "tags": [
+                {
+                    "id": "3727763",
+                    "name": "Ft. Lauderdale Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728485",
+                    "name": "CES Owned",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1FT8W3DT0JEB05018",
+            "year": "2018",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-10T12:50:21Z",
+            "updatedAtTime": "2022-08-10T12:52:26Z"
+        },
+        {
+            "cameraSerial": "GP4V-DYU-2FF",
+            "externalIds": {
+                "samsara.serial": "GJ8STWKFVA",
+                "samsara.vin": "3C63R3EL5NG260475"
+            },
+            "gateway": {
+                "serial": "GJ8S-TWK-FVA",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982070721",
+            "make": "RAM",
+            "model": "3500",
+            "name": "260475",
+            "notes": "",
+            "serial": "GJ8STWKFVA",
+            "tags": [
+                {
+                    "id": "3727764",
+                    "name": "New Jersey Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "3C63R3EL5NG260475",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-10T20:22:11Z",
+            "updatedAtTime": "2022-08-10T20:23:47Z"
+        },
+        {
+            "cameraSerial": "GWN6-J2Z-JE4",
+            "externalIds": {
+                "samsara.serial": "GBZKFXENS8",
+                "samsara.vin": "1FD0W5HT9MED56476"
+            },
+            "gateway": {
+                "serial": "GBZK-FXE-NS8",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982077280",
+            "make": "FORD",
+            "model": "F-550",
+            "name": "5-0001881",
+            "notes": "",
+            "serial": "GBZKFXENS8",
+            "tags": [
+                {
+                    "id": "3727764",
+                    "name": "New Jersey Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728483",
+                    "name": "PTR Rental",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1FD0W5HT9MED56476",
+            "year": "2021",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-11T12:28:28Z",
+            "updatedAtTime": "2022-08-12T23:11:05Z"
+        },
+        {
+            "cameraSerial": "GG4G-WUZ-DDG",
+            "externalIds": {
+                "samsara.serial": "GHMN2GGK3W",
+                "samsara.vin": "1FD0W5HT7NEC94884"
+            },
+            "gateway": {
+                "serial": "GHMN-2GG-K3W",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982081058",
+            "make": "FORD",
+            "model": "F-550",
+            "name": "5-0002098",
+            "notes": "",
+            "serial": "GHMN2GGK3W",
+            "tags": [
+                {
+                    "id": "3727764",
+                    "name": "New Jersey Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728483",
+                    "name": "PTR Rental",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1FD0W5HT7NEC94884",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-11T17:29:12Z",
+            "updatedAtTime": "2022-08-12T23:15:50Z"
+        },
+        {
+            "cameraSerial": "GMAB-XVS-R43",
+            "externalIds": {
+                "samsara.serial": "GF8XFG5G6X",
+                "samsara.vin": "1FD0W5HT4NEC71028"
+            },
+            "gateway": {
+                "serial": "GF8X-FG5-G6X",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982084258",
+            "make": "FORD",
+            "model": "F-550",
+            "name": "5-0002104",
+            "notes": "",
+            "serial": "GF8XFG5G6X",
+            "tags": [
+                {
+                    "id": "3727764",
+                    "name": "New Jersey Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728483",
+                    "name": "PTR Rental",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1FD0W5HT4NEC71028",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-11T21:16:36Z",
+            "updatedAtTime": "2022-08-12T23:12:32Z"
+        },
+        {
+            "cameraSerial": "G7NM-R9E-EHH",
+            "externalIds": {
+                "samsara.serial": "GDES53CYR3",
+                "samsara.vin": "1M1AN4GY8KM001787"
+            },
+            "gateway": {
+                "serial": "GDES-53C-YR3",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982096326",
+            "make": "MACK",
+            "model": "Anthem",
+            "name": "001787",
+            "notes": "",
+            "serial": "GDES53CYR3",
+            "tags": [
+                {
+                    "id": "3727758",
+                    "name": "Indio Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728484",
+                    "name": "Hogan/National Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1M1AN4GY8KM001787",
+            "year": "2019",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-12T18:40:10Z",
+            "updatedAtTime": "2022-08-12T18:52:33Z"
+        },
+        {
+            "cameraSerial": "G2DR-E7W-675",
+            "externalIds": {
+                "samsara.serial": "GGXY43YF2R",
+                "samsara.vin": "3C63R3EL4NG135595"
+            },
+            "gateway": {
+                "serial": "GGXY-43Y-F2R",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982096327",
+            "make": "RAM",
+            "model": "3500",
+            "name": "135595",
+            "notes": "",
+            "serial": "GGXY43YF2R",
+            "tags": [
+                {
+                    "id": "3727758",
+                    "name": "Indio Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "3C63R3EL4NG135595",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-12T18:40:10Z",
+            "updatedAtTime": "2022-08-12T18:55:36Z"
+        },
+        {
+            "cameraSerial": "GUKU-H7M-EJN",
+            "externalIds": {
+                "samsara.serial": "GJ3K5VFEZT",
+                "samsara.vin": "3C63R3EL9NG276887"
+            },
+            "gateway": {
+                "serial": "GJ3K-5VF-EZT",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982096328",
+            "make": "RAM",
+            "model": "3500",
+            "name": "276887",
+            "notes": "",
+            "serial": "GJ3K5VFEZT",
+            "tags": [
+                {
+                    "id": "3727758",
+                    "name": "Indio Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "3C63R3EL9NG276887",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-12T18:40:10Z",
+            "updatedAtTime": "2022-08-12T18:57:52Z"
+        },
+        {
+            "cameraSerial": "GECP-X2N-W33",
+            "externalIds": {
+                "samsara.serial": "GP892289EU",
+                "samsara.vin": "1FD0W5HT8KEG10370"
+            },
+            "gateway": {
+                "serial": "GP89-228-9EU",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982096329",
+            "make": "FORD",
+            "model": "F-550",
+            "name": "5-0001107",
+            "notes": "",
+            "serial": "GP892289EU",
+            "tags": [
+                {
+                    "id": "3727758",
+                    "name": "Indio Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728483",
+                    "name": "PTR Rental",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1FD0W5HT8KEG10370",
+            "year": "2019",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-12T18:40:11Z",
+            "updatedAtTime": "2022-08-12T23:14:42Z"
+        },
+        {
+            "cameraSerial": "GB5R-52U-PE6",
+            "externalIds": {
+                "samsara.serial": "GUM8Z43M87",
+                "samsara.vin": "1FD7W2BTXMED08037"
+            },
+            "gateway": {
+                "serial": "GUM8-Z43-M87",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982096330",
+            "make": "FORD",
+            "model": "F-250",
+            "name": "2-0003802",
+            "notes": "",
+            "serial": "GUM8Z43M87",
+            "tags": [
+                {
+                    "id": "3727758",
+                    "name": "Indio Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728483",
+                    "name": "PTR Rental",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1FD7W2BTXMED08037",
+            "year": "2021",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-12T18:40:11Z",
+            "updatedAtTime": "2022-08-12T23:09:18Z"
+        },
+        {
+            "externalIds": {
+                "samsara.serial": "GUWD6C9DAM",
+                "samsara.vin": "1C4HJXFN0MW724964"
+            },
+            "gateway": {
+                "serial": "GUWD-6C9-DAM",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982097723",
+            "make": "JEEP",
+            "model": "Wrangler",
+            "name": "724964",
+            "notes": "",
+            "serial": "GUWD6C9DAM",
+            "tags": [
+                {
+                    "id": "3727761",
+                    "name": "Memphis Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1C4HJXFN0MW724964",
+            "year": "2021",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-12T20:20:47Z",
+            "updatedAtTime": "2022-08-12T20:23:43Z"
+        },
+        {
+            "cameraSerial": "G5EJ-2RZ-299",
+            "externalIds": {
+                "samsara.serial": "G2XUWC2ZKH",
+                "samsara.vin": "3C63R3EL6NG135596"
+            },
+            "gateway": {
+                "serial": "G2XU-WC2-ZKH",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982097771",
+            "make": "RAM",
+            "model": "3500",
+            "name": "135596",
+            "notes": "",
+            "serial": "G2XUWC2ZKH",
+            "tags": [
+                {
+                    "id": "3727764",
+                    "name": "New Jersey Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "3C63R3EL6NG135596",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-12T20:27:35Z",
+            "updatedAtTime": "2022-08-12T20:31:18Z"
+        },
+        {
+            "cameraSerial": "GBTZ-FZF-DZM",
+            "externalIds": {
+                "samsara.serial": "G7FF5AP85Z",
+                "samsara.vin": "3C63R3EL3NG240144"
+            },
+            "gateway": {
+                "serial": "G7FF-5AP-85Z",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982115498",
+            "make": "RAM",
+            "model": "3500",
+            "name": "240144",
+            "notes": "",
+            "serial": "G7FF5AP85Z",
+            "staticAssignedDriver": {
+                "id": "19550015",
+                "name": "Christopher Adams"
+            },
+            "tags": [
+                {
+                    "id": "3727763",
+                    "name": "Ft. Lauderdale Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "3C63R3EL3NG240144",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-15T14:16:53Z",
+            "updatedAtTime": "2022-08-15T14:17:55Z"
+        },
+        {
+            "externalIds": {
+                "samsara.serial": "GECEX3ZAYR",
+                "samsara.vin": "1M1AN4GY4NM025623"
+            },
+            "gateway": {
+                "serial": "GECE-X3Z-AYR",
+                "model": "none"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982118961",
+            "make": "MACK",
+            "model": "Anthem",
+            "name": "025623",
+            "notes": "",
+            "serial": "GECEX3ZAYR",
+            "staticAssignedDriver": {
+                "id": "20069072",
+                "name": "John Muller"
+            },
+            "tags": [
+                {
+                    "id": "3727761",
+                    "name": "Memphis Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728484",
+                    "name": "Hogan/National Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1M1AN4GY4NM025623",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-15T15:47:35Z",
+            "updatedAtTime": "2022-08-15T15:48:48Z"
+        },
+        {
+            "cameraSerial": "GFY9-KYZ-V68",
+            "externalIds": {
+                "samsara.serial": "GF7DCBGRHN",
+                "samsara.vin": "1C6SRFJT3MN817313"
+            },
+            "gateway": {
+                "serial": "GF7D-CBG-RHN",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982129112",
+            "make": "RAM",
+            "model": "1500",
+            "name": "817313",
+            "notes": "",
+            "serial": "GF7DCBGRHN",
+            "tags": [
+                {
+                    "id": "3727764",
+                    "name": "New Jersey Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1C6SRFJT3MN817313",
+            "year": "2021",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-16T12:40:47Z",
+            "updatedAtTime": "2022-08-16T12:44:19Z"
+        },
+        {
+            "cameraSerial": "GKWU-KMD-8CA",
+            "externalIds": {
+                "samsara.serial": "GTA9AWY65Z",
+                "samsara.vin": "1M1AN4GY4KM001785"
+            },
+            "gateway": {
+                "serial": "GTA9-AWY-65Z",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982168594",
+            "make": "MACK",
+            "model": "Anthem",
+            "name": "001785",
+            "notes": "",
+            "serial": "GTA9AWY65Z",
+            "tags": [
+                {
+                    "id": "3727758",
+                    "name": "Indio Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728483",
+                    "name": "PTR Rental",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1M1AN4GY4KM001785",
+            "year": "2019",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-18T21:01:10Z",
+            "updatedAtTime": "2022-08-19T12:12:52Z"
+        },
+        {
+            "cameraSerial": "GBFH-KFF-3ZF",
+            "externalIds": {
+                "samsara.serial": "GUEXS76P5Z",
+                "samsara.vin": "3C63R3EL5NG240145"
+            },
+            "gateway": {
+                "serial": "GUEX-S76-P5Z",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982199171",
+            "make": "RAM",
+            "model": "3500",
+            "name": "240145",
+            "notes": "",
+            "serial": "GUEXS76P5Z",
+            "tags": [
+                {
+                    "id": "3727763",
+                    "name": "Ft. Lauderdale Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "3C63R3EL5NG240145",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-22T15:04:25Z",
+            "updatedAtTime": "2022-08-22T15:05:37Z"
+        },
+        {
+            "cameraSerial": "GNN4-W94-XJK",
+            "externalIds": {
+                "samsara.serial": "GF9NWZ3NTN",
+                "samsara.vin": "1C6SRFJT5NN306655"
+            },
+            "gateway": {
+                "serial": "GF9N-WZ3-NTN",
+                "model": "none"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982199444",
+            "make": "RAM",
+            "model": "1500",
+            "name": "306655",
+            "notes": "",
+            "serial": "GF9NWZ3NTN",
+            "tags": [
+                {
+                    "id": "3727762",
+                    "name": "Orlando Vehicles",
+                    "parentTagId": "3727756"
+                },
+                {
+                    "id": "3728482",
+                    "name": "Pritchard Lease",
+                    "parentTagId": "3727756"
+                }
+            ],
+            "vin": "1C6SRFJT5NN306655",
+            "year": "2022",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-08-22T15:26:34Z",
+            "updatedAtTime": "2022-08-22T15:27:55Z"
+        },
+        {
+            "externalIds": {
+                "samsara.serial": "GRERB599KZ",
+                "samsara.vin": "5KJJBHD12HLJF0863"
+            },
+            "gateway": {
+                "serial": "GRER-B59-9KZ",
+                "model": "none"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982344540",
+            "licensePlate": "N6453HY",
+            "make": "WESTERN STAR",
+            "model": "5700",
+            "name": "Truck# 17-4318",
+            "notes": "Truck# 17-4318, Plate# N6453HY",
+            "serial": "GRERB599KZ",
+            "staticAssignedDriver": {
+                "id": "20655520",
+                "name": "Roberto Caceres"
+            },
+            "vin": "5KJJBHD12HLJF0863",
+            "year": "2017",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-09-05T19:08:29Z",
+            "updatedAtTime": "2022-09-05T19:48:21Z",
+            "esn": "473910S0450531"
+        },
+        {
+            "externalIds": {
+                "samsara.serial": "GUN6V2K2KA",
+                "samsara.vin": "5KJJBHD14HLJF0864"
+            },
+            "gateway": {
+                "serial": "GUN6-V2K-2KA",
+                "model": "VG54NA"
+            },
+            "harshAccelerationSettingType": "automatic",
+            "id": "281474982345239",
+            "make": "WESTERN STAR",
+            "model": "5700",
+            "name": "17-4319",
+            "notes": "",
+            "serial": "GUN6V2K2KA",
+            "staticAssignedDriver": {
+                "id": "20651431",
+                "name": "Harris Anthony Horne"
+            },
+            "vin": "5KJJBHD14HLJF0864",
+            "year": "2017",
+            "vehicleRegulationMode": "regulated",
+            "createdAtTime": "2022-09-05T21:44:11Z",
+            "updatedAtTime": "2022-09-05T21:46:14Z",
+            "esn": "473910S0450712"
+        }
+    ],
+    "pagination": {
+        "endCursor": "",
+        "hasNextPage": false
+    }
+}
