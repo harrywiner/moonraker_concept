@@ -1,0 +1,46 @@
+// MongoDB Playground
+// To disable this template go to Settings | MongoDB | Use Default Template For Playground.
+// Make sure you are connected to enable completions and to be able to run a playground.
+// Use Ctrl+Space inside a snippet or a string literal to trigger completions.
+
+// Select the database to use.
+use('samsara');
+
+// distinct asset types 
+// db.assets.distinct("cable.assetType")
+
+// Equipment Asset lookup
+
+// found for oid: 631a1b0b519fecf1c85b25a0, id: 281474980259258
+db.equipment.aggregate({
+   $lookup:
+     {
+       "from": "assets",
+       "localField": "installedGateway.serial",
+       "foreignField": "name",
+       "as": "asset"
+     }
+})
+db.equipment.aggregate({
+   $lookup:
+     {
+       "from": "assets",
+       "let": {aid :"$id"},
+       "pipeline": [{
+          $match:{
+            $expr:{
+              $eq: 
+                ["$id", 
+                {
+                  $convert: 
+                  {
+                    input: "$$aid",
+                    to: "string",
+                  }
+                }]
+              }
+          }
+       }],
+       "as": "asset"
+     }
+})

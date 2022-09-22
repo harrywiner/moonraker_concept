@@ -1,0 +1,68 @@
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+</head>
+<body>
+    <h2>Report over 2 week period</h2>
+    <canvas id="myChart"></canvas>
+    <script>
+
+        async function getData() {
+            return new Promise((resolve, reject) => {
+                $.ajax({url: "/classifiers/proprietary", success: (res) => {
+                        res['functioning'] = res['functioning'].map(e => {
+                            return {x: e.LatencyAvg, y: e.FailureRate}
+                        })
+                        res['malfunctioning'] = res['malfunctioning'].map(e => {
+                            return {x: e.LatencyAvg, y: e.FailureRate}
+                        })
+                        resolve(res)
+                    }
+                })
+            })
+            
+        }
+
+        getData().then(({functioning, malfunctioning}) => {
+            const ctx = document.getElementById('myChart');
+            const chartData = {
+                datasets: [{
+                  label: 'Functioning Devices',
+                  data: functioning,
+                  backgroundColor: 'rgb(56, 176, 32)'
+                },
+                {
+                    label: 'Malfunctioning Devices',
+                    data: malfunctioning,
+                    backgroundColor: 'rgb(176, 41, 32)'
+                  }],
+              };
+            Chart.defaults.font.size = 20
+            const myChart = new Chart(ctx, {
+                type: 'scatter',
+                data: chartData,
+                options: {
+                  scales: {
+                    x: {
+                      type: 'logarithmic',
+                      position: 'bottom',
+                      title: {
+                        display: true,
+                        text: 'Latency Avg (ms)'
+                      }
+                    },
+                    y: {
+                        type: 'linear',
+                        position: 'left',
+                        title: {
+                            display: true,
+                            text: 'Failure Ratio'
+                        }
+                    }
+                  }
+                }
+              });
+        })
+    </script>
+</body>

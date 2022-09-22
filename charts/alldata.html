@@ -1,0 +1,68 @@
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+</head>
+<body>
+    <h2>Report over 2 week period</h2>
+    <canvas id="myChart"></canvas>
+    <script>
+
+        async function getData() {
+            return new Promise((resolve, reject) => {
+                $.ajax({url: "/devices", success: (res) => {
+                        const data = res.map(e => {
+                            return {x: e.LatencyAvg, y: e.FailureRate}
+                        })
+                        resolve(data)
+                    }
+                })
+            })
+            
+        }
+
+        getData().then(deviceData => {
+            const ctx = document.getElementById('myChart');
+            const testdata = [{
+                x: .10,
+                y: .20
+            }, {
+                x: .15,
+                y: .10
+            }]
+            const chartData = {
+                datasets: [{
+                  label: 'Latency vs Failure Rate Jun 1st - Jun 17th 2021',
+                  data: deviceData,
+                  backgroundColor: 'rgb(255, 99, 132)'
+                }],
+              };
+            Chart.defaults.font.size = 20
+            const myChart = new Chart(ctx, {
+                type: 'scatter',
+                data: chartData,
+                options: {
+                  scales: {
+                    x: {
+                      type: 'logarithmic',
+                      position: 'bottom',
+                      title: {
+                        display: true,
+                        text: 'Latency Avg (ms)'
+                      }
+                    },
+                    y: {
+                        type: 'linear',
+                        position: 'left',
+                        title: {
+                            display: true,
+                            text: 'Failure Ratio'
+                        }
+                    }
+                  }
+                },
+                backgroundColor: 'rgb(255, 99, 132)'
+              });
+        })
+    </script>
+</body>

@@ -1,0 +1,2981 @@
+[
+    {
+        "id": "281474979023265",
+        "name": "X5M00534",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3390440",
+                "name": "Generators"
+            }
+        ],
+        "assetSerial": "G753-VAU-UAH",
+        "externalIds": {
+            "samsara.serial": "G753VAUUAH"
+        },
+        "installedGateway": {
+            "serial": "G753-VAU-UAH",
+            "model": "IG15"
+        }
+    },
+    {
+        "id": "281474979023269",
+        "name": "X5M00446",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3390440",
+                "name": "Generators"
+            }
+        ],
+        "assetSerial": "GWD7-K6D-AJ4",
+        "externalIds": {
+            "samsara.serial": "GWD7K6DAJ4"
+        },
+        "installedGateway": {
+            "serial": "GWD7-K6D-AJ4",
+            "model": "IG15"
+        }
+    },
+    {
+        "id": "281474980259231",
+        "name": "154619",
+        "notes": "",
+        "assetSerial": "154619",
+        "externalIds": {
+            "samsara.serial": "G46SCN82XD"
+        },
+        "installedGateway": {
+            "serial": "G46S-CN8-2XD",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259232",
+        "name": "1LS01478",
+        "notes": "",
+        "assetSerial": "1LS01478",
+        "externalIds": {
+            "samsara.serial": "G475GV7EFF"
+        },
+        "installedGateway": {
+            "serial": "G475-GV7-EFF",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259233",
+        "name": "L039937",
+        "notes": "",
+        "assetSerial": "L039937",
+        "externalIds": {
+            "samsara.serial": "G5A9FT8RMN"
+        },
+        "installedGateway": {
+            "serial": "G5A9-FT8-RMN",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259234",
+        "name": "246949",
+        "notes": "",
+        "assetSerial": "246949",
+        "externalIds": {
+            "samsara.serial": "G725DC2RSK"
+        },
+        "installedGateway": {
+            "serial": "G725-DC2-RSK",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259235",
+        "name": "T276977",
+        "notes": "",
+        "assetSerial": "T276977",
+        "externalIds": {
+            "samsara.serial": "G7A6GNPVX6"
+        },
+        "installedGateway": {
+            "serial": "G7A6-GNP-VX6",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259236",
+        "name": "155395",
+        "notes": "",
+        "assetSerial": "155395",
+        "externalIds": {
+            "samsara.serial": "G9AHM82K7P"
+        },
+        "installedGateway": {
+            "serial": "G9AH-M82-K7P",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259237",
+        "name": "106010",
+        "notes": "",
+        "assetSerial": "106010",
+        "externalIds": {
+            "samsara.serial": "GAAJYYKZXX"
+        },
+        "installedGateway": {
+            "serial": "GAAJ-YYK-ZXX",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259238",
+        "name": "1LS01479",
+        "notes": "",
+        "assetSerial": "1LS01479",
+        "externalIds": {
+            "samsara.serial": "GEU53FPSUG"
+        },
+        "installedGateway": {
+            "serial": "GEU5-3FP-SUG",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259239",
+        "name": "33156",
+        "notes": "",
+        "assetSerial": "33156",
+        "externalIds": {
+            "samsara.serial": "GEU8AXGB27"
+        },
+        "installedGateway": {
+            "serial": "GEU8-AXG-B27",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259240",
+        "name": "L130334",
+        "notes": "",
+        "assetSerial": "L130334",
+        "externalIds": {
+            "samsara.serial": "GFRZDCXSYA"
+        },
+        "installedGateway": {
+            "serial": "GFRZ-DCX-SYA",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259241",
+        "name": "X5M00285",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3403915",
+                "name": "TROUBLESHOOT"
+            }
+        ],
+        "assetSerial": "X5M00285",
+        "externalIds": {
+            "samsara.serial": "GJ7G8VXU3K"
+        },
+        "installedGateway": {
+            "serial": "GJ7G-8VX-U3K",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259242",
+        "name": "71188473",
+        "notes": "",
+        "assetSerial": "71188473",
+        "externalIds": {
+            "samsara.serial": "GJ9SNB7RHP"
+        },
+        "installedGateway": {
+            "serial": "GJ9S-NB7-RHP",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259255",
+        "name": "F23836",
+        "notes": "",
+        "assetSerial": "HR70565N724030P",
+        "externalIds": {
+            "samsara.serial": "G3RYX5SE9N"
+        },
+        "installedGateway": {
+            "serial": "G3RY-X5S-E9N",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259256",
+        "name": "28B10903",
+        "notes": "",
+        "assetSerial": "28B10903",
+        "externalIds": {
+            "samsara.serial": "GAH37WA6U5"
+        },
+        "installedGateway": {
+            "serial": "GAH3-7WA-6U5",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259257",
+        "name": "F23833",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GB5TZD82N5"
+        },
+        "installedGateway": {
+            "serial": "GB5T-ZD8-2N5",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259258",
+        "name": "GB74-6M3-TTR",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GB746M3TTR"
+        },
+        "installedGateway": {
+            "serial": "GB74-6M3-TTR",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259259",
+        "name": "F24991",
+        "notes": "",
+        "assetSerial": "HR70565N722538P",
+        "externalIds": {
+            "samsara.serial": "GBH4PBHSMB"
+        },
+        "installedGateway": {
+            "serial": "GBH4-PBH-SMB",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259267",
+        "name": "GBVM-6HU-RV6",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GBVM6HURV6"
+        },
+        "installedGateway": {
+            "serial": "GBVM-6HU-RV6",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259268",
+        "name": "GBX8-P7G-7ST",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GBX8P7G7ST"
+        },
+        "installedGateway": {
+            "serial": "GBX8-P7G-7ST",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259269",
+        "name": "F24969",
+        "notes": "",
+        "assetSerial": "HR70565N724952P",
+        "externalIds": {
+            "samsara.serial": "GC6VFBM7FS"
+        },
+        "installedGateway": {
+            "serial": "GC6V-FBM-7FS",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259270",
+        "name": "F24967",
+        "notes": "",
+        "assetSerial": "HR70565N724019P",
+        "externalIds": {
+            "samsara.serial": "GDNM4J9XC8"
+        },
+        "installedGateway": {
+            "serial": "GDNM-4J9-XC8",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259271",
+        "name": "9ZR02159",
+        "notes": "",
+        "assetSerial": "9ZR02159",
+        "externalIds": {
+            "samsara.serial": "GDU2E3AV26"
+        },
+        "installedGateway": {
+            "serial": "GDU2-E3A-V26",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259272",
+        "name": "GG34-4JG-7FJ",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GG344JG7FJ"
+        },
+        "installedGateway": {
+            "serial": "GG34-4JG-7FJ",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259273",
+        "name": "33407456",
+        "notes": "",
+        "assetSerial": "33407456",
+        "externalIds": {
+            "samsara.serial": "GGY94D7Y2G"
+        },
+        "installedGateway": {
+            "serial": "GGY9-4D7-Y2G",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259274",
+        "name": "8510812",
+        "notes": "",
+        "assetSerial": "8510812",
+        "externalIds": {
+            "samsara.serial": "G64FB6FUEV"
+        },
+        "installedGateway": {
+            "serial": "G64F-B6F-UEV",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259275",
+        "name": "F24975",
+        "notes": "",
+        "assetSerial": "HR70565N723963P",
+        "externalIds": {
+            "samsara.serial": "G64Y39FA8T"
+        },
+        "installedGateway": {
+            "serial": "G64Y-39F-A8T",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259276",
+        "name": "F24965",
+        "notes": "",
+        "assetSerial": "HR70565N722580P",
+        "externalIds": {
+            "samsara.serial": "G7RKKPSMPP"
+        },
+        "installedGateway": {
+            "serial": "G7RK-KPS-MPP",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259277",
+        "name": "F23827",
+        "notes": "",
+        "assetSerial": "HR70565N724046P",
+        "externalIds": {
+            "samsara.serial": "G8U3DCJSHM"
+        },
+        "installedGateway": {
+            "serial": "G8U3-DCJ-SHM",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259278",
+        "name": "F23810",
+        "notes": "",
+        "assetSerial": "HDTG0003414",
+        "externalIds": {
+            "samsara.serial": "G97G4D3JBY"
+        },
+        "installedGateway": {
+            "serial": "G97G-4D3-JBY",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259279",
+        "name": "F24971",
+        "notes": "",
+        "assetSerial": "HR70565N724049P",
+        "externalIds": {
+            "samsara.serial": "G97VS6PM42"
+        },
+        "installedGateway": {
+            "serial": "G97V-S6P-M42",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259280",
+        "name": "F23838",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GEBF5HRS43"
+        },
+        "installedGateway": {
+            "serial": "GEBF-5HR-S43",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259281",
+        "name": "GF2C-2CK-D6J",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GF2C2CKD6J"
+        },
+        "installedGateway": {
+            "serial": "GF2C-2CK-D6J",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259282",
+        "name": "D1630450",
+        "notes": "",
+        "assetSerial": "D1630450",
+        "externalIds": {
+            "samsara.serial": "GFGND8GDM8"
+        },
+        "installedGateway": {
+            "serial": "GFGN-D8G-DM8",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259283",
+        "name": "8104466",
+        "notes": "",
+        "assetSerial": "8104466",
+        "externalIds": {
+            "samsara.serial": "GFP6R5SEKH"
+        },
+        "installedGateway": {
+            "serial": "GFP6-R5S-EKH",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259284",
+        "name": "F23816",
+        "notes": "",
+        "assetSerial": "HDTG0004146",
+        "externalIds": {
+            "samsara.serial": "GFS6X3B248"
+        },
+        "installedGateway": {
+            "serial": "GFS6-X3B-248",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259285",
+        "name": "D1630350",
+        "notes": "",
+        "assetSerial": "D1630350",
+        "externalIds": {
+            "samsara.serial": "GFTZPJ7TH8"
+        },
+        "installedGateway": {
+            "serial": "GFTZ-PJ7-TH8",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259286",
+        "name": "U12203254",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3717305",
+                "name": "T4F"
+            }
+        ],
+        "assetSerial": "U12203254",
+        "externalIds": {
+            "samsara.serial": "G4E2PYB6FS"
+        },
+        "installedGateway": {
+            "serial": "G4E2-PYB-6FS",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259287",
+        "name": "U12203262",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3390440",
+                "name": "Generators"
+            },
+            {
+                "id": "3717305",
+                "name": "T4F"
+            }
+        ],
+        "assetSerial": "U12203262",
+        "externalIds": {
+            "samsara.serial": "G57X4VWP9P"
+        },
+        "installedGateway": {
+            "serial": "G57X-4VW-P9P",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259288",
+        "name": "U12102987",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3717305",
+                "name": "T4F"
+            }
+        ],
+        "assetSerial": "U12102987",
+        "externalIds": {
+            "samsara.serial": "G5C5BDUD4W"
+        },
+        "installedGateway": {
+            "serial": "G5C5-BDU-D4W",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259289",
+        "name": "1728B10313",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "G5SUY93H9R"
+        },
+        "installedGateway": {
+            "serial": "G5SU-Y93-H9R",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259291",
+        "name": "U12102989",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3717305",
+                "name": "T4F"
+            }
+        ],
+        "assetSerial": "U12102989",
+        "externalIds": {
+            "samsara.serial": "G8BVWTY255"
+        },
+        "installedGateway": {
+            "serial": "G8BV-WTY-255",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259292",
+        "name": "U12203258",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3717305",
+                "name": "T4F"
+            }
+        ],
+        "assetSerial": "U12203258",
+        "externalIds": {
+            "samsara.serial": "G8PYB88HBJ"
+        },
+        "installedGateway": {
+            "serial": "G8PY-B88-HBJ",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259293",
+        "name": "U12203309",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3390440",
+                "name": "Generators"
+            },
+            {
+                "id": "3717305",
+                "name": "T4F"
+            }
+        ],
+        "assetSerial": "U12203309",
+        "externalIds": {
+            "samsara.serial": "G8W88YXJR4"
+        },
+        "installedGateway": {
+            "serial": "G8W8-8YX-JR4",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259298",
+        "name": "D1450358",
+        "notes": "",
+        "assetSerial": "D1450358",
+        "externalIds": {
+            "samsara.serial": "G4XR3Z6TRD"
+        },
+        "installedGateway": {
+            "serial": "G4XR-3Z6-TRD",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259299",
+        "name": "28B10782",
+        "notes": "",
+        "assetSerial": "28B10782",
+        "externalIds": {
+            "samsara.serial": "G55J8GJT6W"
+        },
+        "installedGateway": {
+            "serial": "G55J-8GJ-T6W",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259300",
+        "name": "8510811",
+        "notes": "",
+        "assetSerial": "8510811",
+        "externalIds": {
+            "samsara.serial": "G5SHAE48T8"
+        },
+        "installedGateway": {
+            "serial": "G5SH-AE4-8T8",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259301",
+        "name": "D1410459",
+        "notes": "",
+        "assetSerial": "D1410459",
+        "externalIds": {
+            "samsara.serial": "G6VM5TZFBN"
+        },
+        "installedGateway": {
+            "serial": "G6VM-5TZ-FBN",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259302",
+        "name": "28B10932",
+        "notes": "",
+        "assetSerial": "28B10932",
+        "externalIds": {
+            "samsara.serial": "G6XJ7TFPXP"
+        },
+        "installedGateway": {
+            "serial": "G6XJ-7TF-PXP",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259303",
+        "name": "20142173",
+        "notes": "",
+        "assetSerial": "20142173",
+        "externalIds": {
+            "samsara.serial": "G7XBSDEVJ7"
+        },
+        "installedGateway": {
+            "serial": "G7XB-SDE-VJ7",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259304",
+        "name": "D1410463",
+        "notes": "",
+        "assetSerial": "D1410463",
+        "externalIds": {
+            "samsara.serial": "G8BJ7A5TST"
+        },
+        "installedGateway": {
+            "serial": "G8BJ-7A5-TST",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259305",
+        "name": "D1410422",
+        "notes": "",
+        "assetSerial": "D1410422",
+        "externalIds": {
+            "samsara.serial": "G9YPEXGP94"
+        },
+        "installedGateway": {
+            "serial": "G9YP-EXG-P94",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259306",
+        "name": "20142112",
+        "notes": "",
+        "assetSerial": "20142112",
+        "externalIds": {
+            "samsara.serial": "GA9GH6FSRU"
+        },
+        "installedGateway": {
+            "serial": "GA9G-H6F-SRU",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259307",
+        "name": "28B10825",
+        "notes": "",
+        "assetSerial": "28B10825",
+        "externalIds": {
+            "samsara.serial": "GDMG6RACK9"
+        },
+        "installedGateway": {
+            "serial": "GDMG-6RA-CK9",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259308",
+        "name": "72B120069",
+        "notes": "",
+        "assetSerial": "72B120069",
+        "externalIds": {
+            "samsara.serial": "GGYFT539YY"
+        },
+        "installedGateway": {
+            "serial": "GGYF-T53-9YY",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259309",
+        "name": "20142126",
+        "notes": "",
+        "assetSerial": "20142126",
+        "externalIds": {
+            "samsara.serial": "GXVBXS8K2B"
+        },
+        "installedGateway": {
+            "serial": "GXVB-XS8-K2B",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259352",
+        "name": "1646",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3553103",
+                "name": "Studio Only"
+            }
+        ],
+        "assetSerial": "1646",
+        "externalIds": {
+            "samsara.serial": "GBAMDGD6A7"
+        },
+        "installedGateway": {
+            "serial": "GBAM-DGD-6A7",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259361",
+        "name": "1603",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3553103",
+                "name": "Studio Only"
+            }
+        ],
+        "assetSerial": "1603",
+        "externalIds": {
+            "samsara.serial": "GDDG6T548R"
+        },
+        "installedGateway": {
+            "serial": "GDDG-6T5-48R",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259435",
+        "name": "300-1",
+        "notes": "",
+        "assetSerial": "3708292",
+        "externalIds": {
+            "samsara.serial": "GFZ5ETGGAF"
+        },
+        "installedGateway": {
+            "serial": "GFZ5-ETG-GAF",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259439",
+        "name": "8802472",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GPTAVHSCTC"
+        },
+        "installedGateway": {
+            "serial": "GPTA-VHS-CTC",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259442",
+        "name": "D1450210",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GZNVB4D555"
+        },
+        "installedGateway": {
+            "serial": "GZNV-B4D-555",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259461",
+        "name": "1610",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3553103",
+                "name": "Studio Only"
+            }
+        ],
+        "assetSerial": "1610",
+        "externalIds": {
+            "samsara.serial": "GB5VM6Y6A2"
+        },
+        "installedGateway": {
+            "serial": "GB5V-M6Y-6A2",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259464",
+        "name": "1443",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3553103",
+                "name": "Studio Only"
+            }
+        ],
+        "assetSerial": "1443",
+        "externalIds": {
+            "samsara.serial": "GBKSDKSPCY"
+        },
+        "installedGateway": {
+            "serial": "GBKS-DKS-PCY",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259465",
+        "name": "1801",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3553103",
+                "name": "Studio Only"
+            }
+        ],
+        "assetSerial": "1801",
+        "externalIds": {
+            "samsara.serial": "GBYPTBVPF4"
+        },
+        "installedGateway": {
+            "serial": "GBYP-TBV-PF4",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259466",
+        "name": "1840",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3553103",
+                "name": "Studio Only"
+            }
+        ],
+        "assetSerial": "1840",
+        "externalIds": {
+            "samsara.serial": "GCT845A26D"
+        },
+        "installedGateway": {
+            "serial": "GCT8-45A-26D",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259468",
+        "name": "1441",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3553103",
+                "name": "Studio Only"
+            }
+        ],
+        "assetSerial": "1441",
+        "externalIds": {
+            "samsara.serial": "GD37YYGD3W"
+        },
+        "installedGateway": {
+            "serial": "GD37-YYG-D3W",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259469",
+        "name": "1439",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3553103",
+                "name": "Studio Only"
+            }
+        ],
+        "externalIds": {
+            "samsara.serial": "GDBNC4TWDF"
+        },
+        "installedGateway": {
+            "serial": "GDBN-C4T-WDF",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259560",
+        "name": "D1450213",
+        "notes": "",
+        "assetSerial": "D1450213",
+        "externalIds": {
+            "samsara.serial": "G2J8AF27YN"
+        },
+        "installedGateway": {
+            "serial": "G2J8-AF2-7YN",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259561",
+        "name": "180-1",
+        "notes": "",
+        "assetSerial": "3774071",
+        "externalIds": {
+            "samsara.serial": "G8DFJFA7YC"
+        },
+        "installedGateway": {
+            "serial": "G8DF-JFA-7YC",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259562",
+        "name": "FQ125-6",
+        "notes": "",
+        "assetSerial": "FQ125-6",
+        "externalIds": {
+            "samsara.serial": "GE74BVTTGS"
+        },
+        "installedGateway": {
+            "serial": "GE74-BVT-TGS",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259563",
+        "name": "125-3",
+        "notes": "",
+        "assetSerial": "1268B10291",
+        "externalIds": {
+            "samsara.serial": "GE7J4GJS6V"
+        },
+        "installedGateway": {
+            "serial": "GE7J-4GJ-S6V",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259564",
+        "name": "45-3",
+        "notes": "",
+        "assetSerial": "1338E10078",
+        "externalIds": {
+            "samsara.serial": "GF459HS3UN"
+        },
+        "installedGateway": {
+            "serial": "GF45-9HS-3UN",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259565",
+        "name": "150-9",
+        "notes": "",
+        "assetSerial": "D14501000228",
+        "externalIds": {
+            "samsara.serial": "GFBW6RGTFB"
+        },
+        "installedGateway": {
+            "serial": "GFBW-6RG-TFB",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259566",
+        "name": "180-6",
+        "notes": "",
+        "assetSerial": "D19001000007",
+        "externalIds": {
+            "samsara.serial": "GN9BUPX2R5"
+        },
+        "installedGateway": {
+            "serial": "GN9B-UPX-2R5",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259567",
+        "name": "9ZR02008",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GNN5KNHJBJ"
+        },
+        "installedGateway": {
+            "serial": "GNN5-KNH-JBJ",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259568",
+        "name": "400-1",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GPW73F224X"
+        },
+        "installedGateway": {
+            "serial": "GPW7-3F2-24X",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259569",
+        "name": "D1410716",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GV72SR38SJ"
+        },
+        "installedGateway": {
+            "serial": "GV72-SR3-8SJ",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259570",
+        "name": "D1450180",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GV9C8TB46V"
+        },
+        "installedGateway": {
+            "serial": "GV9C-8TB-46V",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259571",
+        "name": "180-4",
+        "notes": "",
+        "assetSerial": "D18401000035",
+        "externalIds": {
+            "samsara.serial": "GVMC36Y9SF"
+        },
+        "installedGateway": {
+            "serial": "GVMC-36Y-9SF",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259576",
+        "name": "2116890",
+        "notes": "",
+        "assetSerial": "2116890",
+        "externalIds": {
+            "samsara.serial": "G4KE35NBVB"
+        },
+        "installedGateway": {
+            "serial": "G4KE-35N-BVB",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259581",
+        "name": "CF600173",
+        "notes": "",
+        "assetSerial": "CF600173",
+        "externalIds": {
+            "samsara.serial": "GHXMG4WEY5"
+        },
+        "installedGateway": {
+            "serial": "GHXM-G4W-EY5",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259583",
+        "name": "JTF00886",
+        "notes": "",
+        "assetSerial": "0JTF00886",
+        "externalIds": {
+            "samsara.serial": "GMFMPHEF82"
+        },
+        "installedGateway": {
+            "serial": "GMFM-PHE-F82",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259584",
+        "name": "45-13",
+        "notes": "",
+        "assetSerial": "1338E10161",
+        "externalIds": {
+            "samsara.serial": "GPGH6RXSKG"
+        },
+        "installedGateway": {
+            "serial": "GPGH-6RX-SKG",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259585",
+        "name": "9ZR02739",
+        "notes": "",
+        "assetSerial": "09ZR02739",
+        "externalIds": {
+            "samsara.serial": "GTKJ467XHH"
+        },
+        "installedGateway": {
+            "serial": "GTKJ-467-XHH",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259586",
+        "name": "FQ70-3 - FP70FQ",
+        "notes": "",
+        "assetSerial": "FQ70-3 - FP70FQ",
+        "externalIds": {
+            "samsara.serial": "GW7XECR6VP"
+        },
+        "installedGateway": {
+            "serial": "GW7X-ECR-6VP",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259600",
+        "name": "28B10148",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "G3DHZVF656"
+        },
+        "installedGateway": {
+            "serial": "G3DH-ZVF-656",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259605",
+        "name": "D1450174",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "G8FVK6YTZ9"
+        },
+        "installedGateway": {
+            "serial": "G8FV-K6Y-TZ9",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259609",
+        "name": "D1450175",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GN6VNGDK5M"
+        },
+        "installedGateway": {
+            "serial": "GN6V-NGD-K5M",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259612",
+        "name": "28B10904",
+        "notes": "",
+        "assetSerial": "28B10904",
+        "externalIds": {
+            "samsara.serial": "G5PKNNDM2Y"
+        },
+        "installedGateway": {
+            "serial": "G5PK-NND-M2Y",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259613",
+        "name": "D1410464",
+        "notes": "",
+        "assetSerial": "D1410464",
+        "externalIds": {
+            "samsara.serial": "G7NE483SJG"
+        },
+        "installedGateway": {
+            "serial": "G7NE-483-SJG",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259614",
+        "name": "G9MV-TGG-ZFB",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "G9MVTGGZFB"
+        },
+        "installedGateway": {
+            "serial": "G9MV-TGG-ZFB",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259615",
+        "name": "8101753",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3390440",
+                "name": "Generators"
+            }
+        ],
+        "assetSerial": "8101753",
+        "externalIds": {
+            "samsara.serial": "GAGPUA8HU5"
+        },
+        "installedGateway": {
+            "serial": "GAGP-UA8-HU5",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259616",
+        "name": "8600638",
+        "notes": "",
+        "assetSerial": "8600638",
+        "externalIds": {
+            "samsara.serial": "GFPX4WB7V5"
+        },
+        "installedGateway": {
+            "serial": "GFPX-4WB-7V5",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259617",
+        "name": "20142153",
+        "notes": "",
+        "assetSerial": "20142153",
+        "externalIds": {
+            "samsara.serial": "GGRY5KUD48"
+        },
+        "installedGateway": {
+            "serial": "GGRY-5KU-D48",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259618",
+        "name": "28B10792",
+        "notes": "",
+        "assetSerial": "28B10792",
+        "externalIds": {
+            "samsara.serial": "GKHU4EJY88"
+        },
+        "installedGateway": {
+            "serial": "GKHU-4EJ-Y88",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259619",
+        "name": "20141254",
+        "notes": "",
+        "assetSerial": "20141254",
+        "externalIds": {
+            "samsara.serial": "GRG7CMSPKS"
+        },
+        "installedGateway": {
+            "serial": "GRG7-CMS-PKS",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259620",
+        "name": "28B10793",
+        "notes": "",
+        "assetSerial": "28B10793",
+        "externalIds": {
+            "samsara.serial": "GV22YEHNKS"
+        },
+        "installedGateway": {
+            "serial": "GV22-YEH-NKS",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259621",
+        "name": "D1410423",
+        "notes": "",
+        "assetSerial": "D1410423",
+        "externalIds": {
+            "samsara.serial": "GVPMGJ7R7A"
+        },
+        "installedGateway": {
+            "serial": "GVPM-GJ7-R7A",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259622",
+        "name": "28B10906",
+        "notes": "",
+        "assetSerial": "28B10906",
+        "externalIds": {
+            "samsara.serial": "GWEJYK6YXC"
+        },
+        "installedGateway": {
+            "serial": "GWEJ-YK6-YXC",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259623",
+        "name": "68B10271",
+        "notes": "",
+        "assetSerial": "68B10271",
+        "externalIds": {
+            "samsara.serial": "GYCDKB2JUP"
+        },
+        "installedGateway": {
+            "serial": "GYCD-KB2-JUP",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259624",
+        "name": "T282813",
+        "notes": "",
+        "assetSerial": "T282813",
+        "externalIds": {
+            "samsara.serial": "GB8VD6YV55"
+        },
+        "installedGateway": {
+            "serial": "GB8V-D6Y-V55",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259625",
+        "name": "T098203",
+        "notes": "",
+        "assetSerial": "T098203",
+        "externalIds": {
+            "samsara.serial": "GBWU8Y2M78"
+        },
+        "installedGateway": {
+            "serial": "GBWU-8Y2-M78",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259626",
+        "name": "L142806",
+        "notes": "",
+        "assetSerial": "L142806",
+        "externalIds": {
+            "samsara.serial": "GCG4WZJWU5"
+        },
+        "installedGateway": {
+            "serial": "GCG4-WZJ-WU5",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259627",
+        "name": "8104613",
+        "notes": "",
+        "assetSerial": "8104613",
+        "externalIds": {
+            "samsara.serial": "GCHAGGSJYX"
+        },
+        "installedGateway": {
+            "serial": "GCHA-GGS-JYX",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259628",
+        "name": "8104625",
+        "notes": "",
+        "assetSerial": "8104625",
+        "externalIds": {
+            "samsara.serial": "GCVUKCAYXC"
+        },
+        "installedGateway": {
+            "serial": "GCVU-KCA-YXC",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259629",
+        "name": "8202891",
+        "notes": "",
+        "assetSerial": "8202891",
+        "externalIds": {
+            "samsara.serial": "GD2WPVA7ST"
+        },
+        "installedGateway": {
+            "serial": "GD2W-PVA-7ST",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259630",
+        "name": "L131310",
+        "notes": "",
+        "assetSerial": "L131310",
+        "externalIds": {
+            "samsara.serial": "GD6FM7FFNN"
+        },
+        "installedGateway": {
+            "serial": "GD6F-M7F-FNN",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259631",
+        "name": "T116154",
+        "notes": "",
+        "assetSerial": "T116154",
+        "externalIds": {
+            "samsara.serial": "GDA5BA6AEW"
+        },
+        "installedGateway": {
+            "serial": "GDA5-BA6-AEW",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259635",
+        "name": "7112558",
+        "notes": "",
+        "assetSerial": "7112558",
+        "externalIds": {
+            "samsara.serial": "GDAP9SB73G"
+        },
+        "installedGateway": {
+            "serial": "GDAP-9SB-73G",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259636",
+        "name": "8103722",
+        "notes": "",
+        "assetSerial": "8103722",
+        "externalIds": {
+            "samsara.serial": "GDAPZ8DVC7"
+        },
+        "installedGateway": {
+            "serial": "GDAP-Z8D-VC7",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259637",
+        "name": "911910",
+        "notes": "",
+        "assetSerial": "911910",
+        "externalIds": {
+            "samsara.serial": "GDCYRMBBKT"
+        },
+        "installedGateway": {
+            "serial": "GDCY-RMB-BKT",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259638",
+        "name": "8202393",
+        "notes": "",
+        "assetSerial": "8202393",
+        "externalIds": {
+            "samsara.serial": "GDEE6DFVU5"
+        },
+        "installedGateway": {
+            "serial": "GDEE-6DF-VU5",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259651",
+        "name": "125-4",
+        "notes": "",
+        "assetSerial": "1268B10289",
+        "externalIds": {
+            "samsara.serial": "G2CD6U74WR"
+        },
+        "installedGateway": {
+            "serial": "G2CD-6U7-4WR",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259652",
+        "name": "45-5",
+        "notes": "",
+        "assetSerial": "1338E10106",
+        "externalIds": {
+            "samsara.serial": "G2UGWTVFSJ"
+        },
+        "installedGateway": {
+            "serial": "G2UG-WTV-FSJ",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259654",
+        "name": "150-4",
+        "notes": "",
+        "assetSerial": "172B110056",
+        "externalIds": {
+            "samsara.serial": "GE7JX48RDD"
+        },
+        "installedGateway": {
+            "serial": "GE7J-X48-RDD",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259655",
+        "name": "D1450215",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GFYMHBGVCJ"
+        },
+        "installedGateway": {
+            "serial": "GFYM-HBG-VCJ",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259656",
+        "name": "45-7",
+        "notes": "",
+        "assetSerial": "1338E10117",
+        "externalIds": {
+            "samsara.serial": "GJZEWKK6HB"
+        },
+        "installedGateway": {
+            "serial": "GJZE-WKK-6HB",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259657",
+        "name": "GNMA-AMF-P5S",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GNMAAMFP5S"
+        },
+        "installedGateway": {
+            "serial": "GNMA-AMF-P5S",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259658",
+        "name": "72B120059",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GNWKNSZBPB"
+        },
+        "installedGateway": {
+            "serial": "GNWK-NSZ-BPB",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259659",
+        "name": "FQ125-5",
+        "notes": "",
+        "assetSerial": "FQ125-5",
+        "externalIds": {
+            "samsara.serial": "GNWU8EXSKH"
+        },
+        "installedGateway": {
+            "serial": "GNWU-8EX-SKH",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259660",
+        "name": "180-2",
+        "notes": "",
+        "assetSerial": "3772119",
+        "externalIds": {
+            "samsara.serial": "GRRHWMXPUV"
+        },
+        "installedGateway": {
+            "serial": "GRRH-WMX-PUV",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259661",
+        "name": "300-2",
+        "notes": "",
+        "assetSerial": "3775994",
+        "externalIds": {
+            "samsara.serial": "GZ98ZP8HZ7"
+        },
+        "installedGateway": {
+            "serial": "GZ98-ZP8-HZ7",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259662",
+        "name": "D1450209",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GZAZUHE9H7"
+        },
+        "installedGateway": {
+            "serial": "GZAZ-UHE-9H7",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259675",
+        "name": "G2HS-ZYE-CT2",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "G2HSZYECT2"
+        },
+        "installedGateway": {
+            "serial": "G2HS-ZYE-CT2",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259676",
+        "name": "45-8",
+        "notes": "",
+        "assetSerial": "1338E10121",
+        "externalIds": {
+            "samsara.serial": "G5HVGK5K7E"
+        },
+        "installedGateway": {
+            "serial": "G5HV-GK5-K7E",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259678",
+        "name": "45-12",
+        "notes": "",
+        "assetSerial": "1338E10160",
+        "externalIds": {
+            "samsara.serial": "G8WPAN3DM4"
+        },
+        "installedGateway": {
+            "serial": "G8WP-AN3-DM4",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259680",
+        "name": "150-5",
+        "notes": "",
+        "assetSerial": "172B110069",
+        "externalIds": {
+            "samsara.serial": "GJYCMU97SN"
+        },
+        "installedGateway": {
+            "serial": "GJYC-MU9-7SN",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259681",
+        "name": "180-5",
+        "notes": "",
+        "assetSerial": "D19001000003",
+        "externalIds": {
+            "samsara.serial": "GNKA29W4BN"
+        },
+        "installedGateway": {
+            "serial": "GNKA-29W-4BN",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259682",
+        "name": "FQ70-2 - FP70FQ",
+        "notes": "",
+        "assetSerial": "FQ70-2 - FP70FQ",
+        "externalIds": {
+            "samsara.serial": "GNMXEHJ43W"
+        },
+        "installedGateway": {
+            "serial": "GNMX-EHJ-43W",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259684",
+        "name": "400-2",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GU2H83GKZF"
+        },
+        "installedGateway": {
+            "serial": "GU2H-83G-KZF",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259686",
+        "name": "7BC10215",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GW4GTSSYFV"
+        },
+        "installedGateway": {
+            "serial": "GW4G-TSS-YFV",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259708",
+        "name": "D1450137",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "G46EBREB6U"
+        },
+        "installedGateway": {
+            "serial": "G46E-BRE-B6U",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259709",
+        "name": "150-2",
+        "notes": "",
+        "assetSerial": "7900402",
+        "externalIds": {
+            "samsara.serial": "G52F89ZUTY"
+        },
+        "installedGateway": {
+            "serial": "G52F-89Z-UTY",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259710",
+        "name": "D1410712",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "G7JRNTKC5V"
+        },
+        "installedGateway": {
+            "serial": "G7JR-NTK-C5V",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259713",
+        "name": "150-6",
+        "notes": "",
+        "assetSerial": "172B100193",
+        "externalIds": {
+            "samsara.serial": "G8RFAB69G9"
+        },
+        "installedGateway": {
+            "serial": "G8RF-AB6-9G9",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259716",
+        "name": "150-8",
+        "notes": "",
+        "assetSerial": "D14501000227",
+        "externalIds": {
+            "samsara.serial": "GFMERMPKWH"
+        },
+        "installedGateway": {
+            "serial": "GFME-RMP-KWH",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259717",
+        "name": "C1600",
+        "notes": "",
+        "assetSerial": "MX184925-0912",
+        "externalIds": {
+            "samsara.serial": "GGYAA6TPMV"
+        },
+        "installedGateway": {
+            "serial": "GGYA-A6T-PMV",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259719",
+        "name": "9ZR02763",
+        "notes": "",
+        "assetSerial": "09ZR02763",
+        "externalIds": {
+            "samsara.serial": "GHN5HEBDV5"
+        },
+        "installedGateway": {
+            "serial": "GHN5-HEB-DV5",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259732",
+        "name": "3045",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3553103",
+                "name": "Studio Only"
+            }
+        ],
+        "assetSerial": "3045",
+        "externalIds": {
+            "samsara.serial": "G2MHERRZ9Y"
+        },
+        "installedGateway": {
+            "serial": "G2MH-ERR-Z9Y",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259733",
+        "name": "8035",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3553103",
+                "name": "Studio Only"
+            }
+        ],
+        "assetSerial": "8035",
+        "externalIds": {
+            "samsara.serial": "G33GNH4P79"
+        },
+        "installedGateway": {
+            "serial": "G33G-NH4-P79",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259735",
+        "name": "5031",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3553103",
+                "name": "Studio Only"
+            }
+        ],
+        "assetSerial": "5031",
+        "externalIds": {
+            "samsara.serial": "G5HXBWYBED"
+        },
+        "installedGateway": {
+            "serial": "G5HX-BWY-BED",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259736",
+        "name": "3014",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3553103",
+                "name": "Studio Only"
+            }
+        ],
+        "assetSerial": "3014",
+        "externalIds": {
+            "samsara.serial": "G7P6PPRWKE"
+        },
+        "installedGateway": {
+            "serial": "G7P6-PPR-WKE",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259739",
+        "name": "1629",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3553103",
+                "name": "Studio Only"
+            }
+        ],
+        "assetSerial": "1629",
+        "externalIds": {
+            "samsara.serial": "GNBRSEFTUF"
+        },
+        "installedGateway": {
+            "serial": "GNBR-SEF-TUF",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259740",
+        "name": "3009",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3553103",
+                "name": "Studio Only"
+            }
+        ],
+        "assetSerial": "3009",
+        "externalIds": {
+            "samsara.serial": "GRK6JGMRSN"
+        },
+        "installedGateway": {
+            "serial": "GRK6-JGM-RSN",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259741",
+        "name": "1630",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3553103",
+                "name": "Studio Only"
+            }
+        ],
+        "assetSerial": "1630",
+        "externalIds": {
+            "samsara.serial": "GSZ2CVYMZM"
+        },
+        "installedGateway": {
+            "serial": "GSZ2-CVY-MZM",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259742",
+        "name": "8034",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3553103",
+                "name": "Studio Only"
+            }
+        ],
+        "assetSerial": "8034",
+        "externalIds": {
+            "samsara.serial": "GVBS6BC9XZ"
+        },
+        "installedGateway": {
+            "serial": "GVBS-6BC-9XZ",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259743",
+        "name": "1602",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3553103",
+                "name": "Studio Only"
+            }
+        ],
+        "assetSerial": "1602",
+        "externalIds": {
+            "samsara.serial": "GZC2FWUDVV"
+        },
+        "installedGateway": {
+            "serial": "GZC2-FWU-DVV",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259744",
+        "name": "G5M2-MRR-BB8",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "G5M2MRRBB8"
+        },
+        "installedGateway": {
+            "serial": "G5M2-MRR-BB8",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259770",
+        "name": "78C10218",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3390440",
+                "name": "Generators"
+            }
+        ],
+        "externalIds": {
+            "samsara.serial": "GUASCR5X6M"
+        },
+        "installedGateway": {
+            "serial": "GUAS-CR5-X6M",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259778",
+        "name": "JK700100",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3390440",
+                "name": "Generators"
+            }
+        ],
+        "externalIds": {
+            "samsara.serial": "G4EA44D85A"
+        },
+        "installedGateway": {
+            "serial": "G4EA-44D-85A",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259779",
+        "name": "8510811",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3390440",
+                "name": "Generators"
+            }
+        ],
+        "assetSerial": "8510811",
+        "externalIds": {
+            "samsara.serial": "G6EHE8TRGS"
+        },
+        "installedGateway": {
+            "serial": "G6EH-E8T-RGS",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259781",
+        "name": "8202686",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3390440",
+                "name": "Generators"
+            }
+        ],
+        "assetSerial": "8202686",
+        "externalIds": {
+            "samsara.serial": "GA39P2VKHN"
+        },
+        "installedGateway": {
+            "serial": "GA39-P2V-KHN",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259783",
+        "name": "28B10905",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3390440",
+                "name": "Generators"
+            }
+        ],
+        "externalIds": {
+            "samsara.serial": "GTVN9BBPF6"
+        },
+        "installedGateway": {
+            "serial": "GTVN-9BB-PF6",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259784",
+        "name": "8802068",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3390440",
+                "name": "Generators"
+            }
+        ],
+        "externalIds": {
+            "samsara.serial": "GX39NKSWVR"
+        },
+        "installedGateway": {
+            "serial": "GX39-NKS-WVR",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259797",
+        "name": "U12203256",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3717305",
+                "name": "T4F"
+            }
+        ],
+        "assetSerial": "U12203256",
+        "externalIds": {
+            "samsara.serial": "G32CVWEA5Z"
+        },
+        "installedGateway": {
+            "serial": "G32C-VWE-A5Z",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259798",
+        "name": "U12102876",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3390440",
+                "name": "Generators"
+            },
+            {
+                "id": "3717305",
+                "name": "T4F"
+            }
+        ],
+        "assetSerial": "U12102876",
+        "externalIds": {
+            "samsara.serial": "G4M6YTPR7V"
+        },
+        "installedGateway": {
+            "serial": "G4M6-YTP-R7V",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259799",
+        "name": "U12203255",
+        "notes": "",
+        "assetSerial": "U12203255",
+        "externalIds": {
+            "samsara.serial": "G8KG5F24EU"
+        },
+        "installedGateway": {
+            "serial": "G8KG-5F2-4EU",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259800",
+        "name": "U12102990",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3390440",
+                "name": "Generators"
+            },
+            {
+                "id": "3717305",
+                "name": "T4F"
+            }
+        ],
+        "assetSerial": "U12102990",
+        "externalIds": {
+            "samsara.serial": "GCKS8KYHR8"
+        },
+        "installedGateway": {
+            "serial": "GCKS-8KY-HR8",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259801",
+        "name": "U12102875",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3390440",
+                "name": "Generators"
+            },
+            {
+                "id": "3717305",
+                "name": "T4F"
+            }
+        ],
+        "assetSerial": "U12102875",
+        "externalIds": {
+            "samsara.serial": "GHCTMVXS4U"
+        },
+        "installedGateway": {
+            "serial": "GHCT-MVX-S4U",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259802",
+        "name": "U12203253",
+        "notes": "",
+        "assetSerial": "U12203253",
+        "externalIds": {
+            "samsara.serial": "GHEEG4S59D"
+        },
+        "installedGateway": {
+            "serial": "GHEE-G4S-59D",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259803",
+        "name": "U12102878",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3390440",
+                "name": "Generators"
+            },
+            {
+                "id": "3717305",
+                "name": "T4F"
+            }
+        ],
+        "assetSerial": "U12102878",
+        "externalIds": {
+            "samsara.serial": "GKPJMGMDSN"
+        },
+        "installedGateway": {
+            "serial": "GKPJ-MGM-DSN",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259804",
+        "name": "U12203257",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3717305",
+                "name": "T4F"
+            }
+        ],
+        "assetSerial": "U12203257",
+        "externalIds": {
+            "samsara.serial": "GN9UP7NT2T"
+        },
+        "installedGateway": {
+            "serial": "GN9U-P7N-T2T",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259805",
+        "name": "U12203259",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3717305",
+                "name": "T4F"
+            }
+        ],
+        "assetSerial": "U12203259",
+        "externalIds": {
+            "samsara.serial": "GPG74PX6E4"
+        },
+        "installedGateway": {
+            "serial": "GPG7-4PX-6E4",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259806",
+        "name": "U12102877",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3390440",
+                "name": "Generators"
+            },
+            {
+                "id": "3717305",
+                "name": "T4F"
+            }
+        ],
+        "assetSerial": "U12102877",
+        "externalIds": {
+            "samsara.serial": "GTSZFKWHKY"
+        },
+        "installedGateway": {
+            "serial": "GTSZ-FKW-HKY",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259807",
+        "name": "U12102988",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3390440",
+                "name": "Generators"
+            },
+            {
+                "id": "3717305",
+                "name": "T4F"
+            }
+        ],
+        "assetSerial": "U12102988",
+        "externalIds": {
+            "samsara.serial": "GVPYFMJGZR"
+        },
+        "installedGateway": {
+            "serial": "GVPY-FMJ-GZR",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259808",
+        "name": "U12203261",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3717305",
+                "name": "T4F"
+            }
+        ],
+        "assetSerial": "U12203261",
+        "externalIds": {
+            "samsara.serial": "GWRDEG2XG8"
+        },
+        "installedGateway": {
+            "serial": "GWRD-EG2-XG8",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259810",
+        "name": "28B10153",
+        "notes": "",
+        "assetSerial": "28B10153",
+        "externalIds": {
+            "samsara.serial": "GB7AJVKFUB"
+        },
+        "installedGateway": {
+            "serial": "GB7A-JVK-FUB",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259811",
+        "name": "35070882",
+        "notes": "",
+        "assetSerial": "35070882",
+        "externalIds": {
+            "samsara.serial": "GBUDZ95E92"
+        },
+        "installedGateway": {
+            "serial": "GBUD-Z95-E92",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259812",
+        "name": "35072899",
+        "notes": "",
+        "assetSerial": "35072899",
+        "externalIds": {
+            "samsara.serial": "GBWFHPCDFE"
+        },
+        "installedGateway": {
+            "serial": "GBWF-HPC-DFE",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259815",
+        "name": "GCMB-XVC-5FC",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GCMBXVC5FC"
+        },
+        "installedGateway": {
+            "serial": "GCMB-XVC-5FC",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259818",
+        "name": "1728B10361",
+        "notes": "",
+        "assetSerial": "1728B10361",
+        "externalIds": {
+            "samsara.serial": "GCNKYF7JYY"
+        },
+        "installedGateway": {
+            "serial": "GCNK-YF7-JYY",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259819",
+        "name": "U12203260",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3390440",
+                "name": "Generators"
+            },
+            {
+                "id": "3717305",
+                "name": "T4F"
+            }
+        ],
+        "assetSerial": "U12203260",
+        "externalIds": {
+            "samsara.serial": "GCT78BDBRN"
+        },
+        "installedGateway": {
+            "serial": "GCT7-8BD-BRN",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259820",
+        "name": "GCU7-YCA-4VR",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GCU7YCA4VR"
+        },
+        "installedGateway": {
+            "serial": "GCU7-YCA-4VR",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259822",
+        "name": "U12203310",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3390440",
+                "name": "Generators"
+            },
+            {
+                "id": "3717305",
+                "name": "T4F"
+            }
+        ],
+        "assetSerial": "U12203310",
+        "externalIds": {
+            "samsara.serial": "GDEX37B6AU"
+        },
+        "installedGateway": {
+            "serial": "GDEX-37B-6AU",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259845",
+        "name": "GZ4Z-TXM-26G",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GZ4ZTXM26G"
+        },
+        "installedGateway": {
+            "serial": "GZ4Z-TXM-26G",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259848",
+        "name": "U041860X",
+        "notes": "",
+        "assetSerial": "U041860X",
+        "externalIds": {
+            "samsara.serial": "GE9TTCEYZX"
+        },
+        "installedGateway": {
+            "serial": "GE9T-TCE-YZX",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259849",
+        "name": "28B10502",
+        "notes": "",
+        "assetSerial": "28B10502",
+        "externalIds": {
+            "samsara.serial": "GF723KNCX7"
+        },
+        "installedGateway": {
+            "serial": "GF72-3KN-CX7",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259850",
+        "name": "28B10934",
+        "notes": "",
+        "assetSerial": "28B10934",
+        "externalIds": {
+            "samsara.serial": "GGM39TF6JC"
+        },
+        "installedGateway": {
+            "serial": "GGM3-9TF-6JC",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259851",
+        "name": "2121246",
+        "notes": "",
+        "assetSerial": "2121246",
+        "externalIds": {
+            "samsara.serial": "GJRP97NZ49"
+        },
+        "installedGateway": {
+            "serial": "GJRP-97N-Z49",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259852",
+        "name": "38E11146",
+        "notes": "",
+        "assetSerial": "38E11146",
+        "externalIds": {
+            "samsara.serial": "GJSXNXPXCK"
+        },
+        "installedGateway": {
+            "serial": "GJSX-NXP-XCK",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259855",
+        "name": "78C10208",
+        "notes": "",
+        "tags": [
+            {
+                "id": "3390440",
+                "name": "Generators"
+            }
+        ],
+        "externalIds": {
+            "samsara.serial": "GMK3C9ZDJS"
+        },
+        "installedGateway": {
+            "serial": "GMK3-C9Z-DJS",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259856",
+        "name": "5YS10448",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GN4JCTJMCY"
+        },
+        "installedGateway": {
+            "serial": "GN4J-CTJ-MCY",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259857",
+        "name": "9ZR02010",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GRKCJ8KYVR"
+        },
+        "installedGateway": {
+            "serial": "GRKC-J8K-YVR",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474980259894",
+        "name": "2120354",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GZJ6SMMFTY"
+        },
+        "installedGateway": {
+            "serial": "GZJ6-SMM-FTY",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982115288",
+        "name": "8801480",
+        "notes": "",
+        "assetSerial": "8801480",
+        "externalIds": {
+            "samsara.serial": "GJCAABFYWB"
+        },
+        "installedGateway": {
+            "serial": "GJCA-ABF-YWB",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982115296",
+        "name": "D1450374",
+        "notes": "",
+        "assetSerial": "D1450374",
+        "externalIds": {
+            "samsara.serial": "GVSUWV8P5R"
+        },
+        "installedGateway": {
+            "serial": "GVSU-WV8-P5R",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982115653",
+        "name": "28B10200",
+        "notes": "",
+        "externalIds": {
+            "samsara.serial": "GYSYB7J4JG"
+        },
+        "installedGateway": {
+            "serial": "GYSY-B7J-4JG",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982154647",
+        "name": "D1630116",
+        "notes": "",
+        "assetSerial": "D1630116",
+        "externalIds": {
+            "samsara.serial": "G4UYRMFR5F"
+        },
+        "installedGateway": {
+            "serial": "G4UY-RMF-R5F",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982154648",
+        "name": "D1630163",
+        "notes": "",
+        "assetSerial": "D1630163",
+        "externalIds": {
+            "samsara.serial": "GJ785MYDZ9"
+        },
+        "installedGateway": {
+            "serial": "GJ78-5MY-DZ9",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982173632",
+        "name": "28B10797",
+        "notes": "",
+        "assetSerial": "28B10797",
+        "externalIds": {
+            "samsara.serial": "GU46MYNNE3"
+        },
+        "installedGateway": {
+            "serial": "GU46-MYN-NE3",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982173633",
+        "name": "28B10783",
+        "notes": "",
+        "assetSerial": "28B10783",
+        "externalIds": {
+            "samsara.serial": "GPF9CS4V8H"
+        },
+        "installedGateway": {
+            "serial": "GPF9-CS4-V8H",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982173634",
+        "name": "28B10210",
+        "notes": "",
+        "assetSerial": "28B10210",
+        "externalIds": {
+            "samsara.serial": "GRTANBCREM"
+        },
+        "installedGateway": {
+            "serial": "GRTA-NBC-REM",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982173635",
+        "name": "8202685",
+        "notes": "",
+        "assetSerial": "8202685",
+        "externalIds": {
+            "samsara.serial": "GP7VZ5NZWP"
+        },
+        "installedGateway": {
+            "serial": "GP7V-Z5N-ZWP",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982173636",
+        "name": "28B10181",
+        "notes": "",
+        "assetSerial": "28B10181",
+        "externalIds": {
+            "samsara.serial": "GD5SC45RG6"
+        },
+        "installedGateway": {
+            "serial": "GD5S-C45-RG6",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982173637",
+        "name": "8802476",
+        "notes": "",
+        "assetSerial": "8802476",
+        "externalIds": {
+            "samsara.serial": "G4TRARB98Y"
+        },
+        "installedGateway": {
+            "serial": "G4TR-ARB-98Y",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982173638",
+        "name": "28B10219",
+        "notes": "",
+        "assetSerial": "28B10219",
+        "externalIds": {
+            "samsara.serial": "GBTAFNK3MJ"
+        },
+        "installedGateway": {
+            "serial": "GBTA-FNK-3MJ",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982173667",
+        "name": "7150238",
+        "notes": "",
+        "assetSerial": "7150238",
+        "externalIds": {
+            "samsara.serial": "GFJUG2FP6M"
+        },
+        "installedGateway": {
+            "serial": "GFJU-G2F-P6M",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982173694",
+        "name": "D1630069",
+        "notes": "",
+        "assetSerial": "D1630069",
+        "externalIds": {
+            "samsara.serial": "GPCJA3FUZR"
+        },
+        "installedGateway": {
+            "serial": "GPCJ-A3F-UZR",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982173731",
+        "name": "28B10076",
+        "notes": "",
+        "assetSerial": "28B10076",
+        "externalIds": {
+            "samsara.serial": "G32W4GPCH5"
+        },
+        "installedGateway": {
+            "serial": "G32W-4GP-CH5",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982173758",
+        "name": "72B120079",
+        "notes": "",
+        "assetSerial": "72B120079",
+        "externalIds": {
+            "samsara.serial": "GZV5FKHKJ3"
+        },
+        "installedGateway": {
+            "serial": "GZV5-FKH-KJ3",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982179604",
+        "name": "28B10617",
+        "notes": "",
+        "assetSerial": "28B10617",
+        "externalIds": {
+            "samsara.serial": "G3TC48VUXT"
+        },
+        "installedGateway": {
+            "serial": "G3TC-48V-UXT",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982179614",
+        "name": "8802474",
+        "notes": "",
+        "assetSerial": "8802474",
+        "externalIds": {
+            "samsara.serial": "GX3PNTNKYD"
+        },
+        "installedGateway": {
+            "serial": "GX3P-NTN-KYD",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982199070",
+        "name": "38E11058",
+        "notes": "",
+        "assetSerial": "38E11058",
+        "externalIds": {
+            "samsara.serial": "G4R29G6U5U"
+        },
+        "installedGateway": {
+            "serial": "G4R2-9G6-U5U",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982209997",
+        "name": "8802068",
+        "notes": "",
+        "assetSerial": "8802068",
+        "externalIds": {
+            "samsara.serial": "G6PGRAE533"
+        },
+        "installedGateway": {
+            "serial": "G6PG-RAE-533",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982216585",
+        "name": "28B10427",
+        "notes": "",
+        "assetSerial": "28B10427",
+        "externalIds": {
+            "samsara.serial": "GFT7ZT72XZ"
+        },
+        "installedGateway": {
+            "serial": "GFT7-ZT7-2XZ",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982216653",
+        "name": "28B10172",
+        "notes": "",
+        "assetSerial": "28B10172",
+        "externalIds": {
+            "samsara.serial": "GEZKTMGPWT"
+        },
+        "installedGateway": {
+            "serial": "GEZK-TMG-PWT",
+            "model": "AG26"
+        }
+    },
+    {
+        "id": "281474982216853",
+        "name": "8E11127",
+        "notes": "",
+        "assetSerial": "8E11127",
+        "externalIds": {
+            "samsara.serial": "GWYWMNE6J8"
+        },
+        "installedGateway": {
+            "serial": "GWYW-MNE-6J8",
+            "model": "AG26"
+        }
+    }
+]
