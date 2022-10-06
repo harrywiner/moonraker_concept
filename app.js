@@ -37,7 +37,6 @@ app.get('/irisdata', (req, res) => {
       });
 })
 
-app.get('/')
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)

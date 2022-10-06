@@ -3,3 +3,5 @@ node_modules/**
 package-lock.json
 .env
 .vscode
+notebooks/sample_data/**
+.DS_Store
