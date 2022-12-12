@@ -8,6 +8,11 @@ const port = 3000
 
 const classifiers = require('./src/classifiers')
 
+require('dotenv').config()
+
+const connect = require('./src/mongo')
+
+connect(process.env.MONGO_URI)
 
 /**
  * A simple server to serve Chart.js charts 

@@ -1,7 +1,7 @@
 const express = require('express')
 const router = express.Router()
 const path = require('path')
-const {getData} = require('./tools')
+const {getData, getDeviceAnomalies} = require('./tools')
 
 /**
  * Returns Data of the form
@@ -36,6 +36,19 @@ router.get('/proprietary', (req, res) => {
     const malfunctioning = data.filter(e => !withinBounds(e, filters))
 
     res.send({functioning, malfunctioning})
+})
+
+router.get('/autoencoder', (req, res) => {
+    getDeviceAnomalies().then(deviceAnomalies => {
+
+        const functioning = deviceAnomalies.filter(e => e.IsAnomaly == 0)
+        const malfunctioning = deviceAnomalies.filter(e => e.IsAnomaly == 1)
+
+        res.send({functioning, malfunctioning})
+    }).catch(err => {
+        res.send(err.message)
+    })
+
 })
 
 module.exports = router
